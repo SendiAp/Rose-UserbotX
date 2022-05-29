@@ -15,7 +15,7 @@ exports.menu = (botname, pushname, salam) => {
 ├ 📞 *Number* : 6285894831504
 ├ 👑 *Owner* : wa.me/${ownernomer}
 ├ 🖥️ *Platform* : Linux
-├ 🤖 *Command* : Support [${prefix}]
+├ 🤖 *Command* : Support [#]
 └───────────────────────`
 }
 
