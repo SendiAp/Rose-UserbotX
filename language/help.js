@@ -7,16 +7,16 @@
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
-	return`[🌹 *WELCOME ROSE-USERBOT* 🌹]
+	return`[🌹*WELCOME ROSE-USERBOT*🌹]
 
 ┌── 「 *ALIVE USERBOT* 」──
-├ 🫂 *Name* : {pushname}
-├ 🌹 *Branch* : {botname}
+├ 🫂 *Name* : Userbot 
+├ 🌹 *Branch* : Rose-Userbot
 ├ 📞 *Number* : 6285894831504
-├ 👑 *Owner* : wa.me/${ownernomer}
+├ 👑 *Owner* : Sendi
 ├ 🖥️ *Platform* : Linux
 ├ 🤖 *Command* : Support [#]
-└───────────────────────`
+└─────────────────────`
 }
 
 //—————「 List 」—————//
@@ -54,21 +54,21 @@ return`  _Selamat ${salam} kak ${pushname}_
   *✘* ${prefix}hapusvote
   
   *DOWNLOADER MENU*
-  *≻* ${prefix}tiktoknowm 
-  *≻* ${prefix}tiktokwm 
-  *≻* ${prefix}tiktokmp3 
-  *≻* ${prefix}instagram 
-  *≻* ${prefix}twitter 
-  *≻* ${prefix}twittermp3 
-  *≻* ${prefix}facebook 
-  *≻* ${prefix}pinterestdl 
-  *≻* ${prefix}ytmp3 
+  *✘* ${prefix}tiktoknowm 
+  *✘* ${prefix}tiktokwm 
+  *✘* ${prefix}tiktokmp3 
+  *✘* ${prefix}instagram 
+  *✘* ${prefix}twitter 
+  *✘* ${prefix}twittermp3 
+  *✘* ${prefix}facebook 
+  *✘* ${prefix}pinterestdl 
+  *✘* ${prefix}ytmp3 
   *≻* ${prefix}ytmp4 
-  *≻* ${prefix}getmusic 
-  *≻* ${prefix}getvideo 
-  *≻* ${prefix}umma 
-  *≻* ${prefix}joox 
-  *≻* ${prefix}soundcloud 
+  *✘* ${prefix}getmusic 
+  *✘* ${prefix}getvideo 
+  *✘* ${prefix}umma 
+  *✘* ${prefix}joox 
+  *✘* ${prefix}soundcloud 
   
   *SEARCH MENU*
   *≻* ${prefix}play 
@@ -424,7 +424,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *✘* ${prefix}setallmenu
   
   *THANKS TO*
-  *≻* Sendi (Developer)
+  *✘* Sendi (Developer)
   `
 }
 
@@ -951,14 +951,6 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *✘* Sendi (Developer)
 `
 }
