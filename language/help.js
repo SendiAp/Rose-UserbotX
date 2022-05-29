@@ -7,10 +7,16 @@
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
-	return`Selamat ${salam} kak ${pushname}
+	return`[🌹 *WELCOME ROSE-USERBOT* 🌹]
 
-Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+┌── 「 *ALIVE USERBOT* 」──
+├ 🫂 *Name* : {pushname}
+├ 🌹 *Branch* : {botname}
+├ 📞 *Number* : 6285894831504
+├ 👑 *Owner* : wa.me/${ownernomer}
+├ 🖥️ *Platform* : Linux
+├ 🤖 *Command* : Support [${prefix}]
+└───────────────────────`
 }
 
 //—————「 List 」—————//
@@ -26,26 +32,26 @@ return`  _Selamat ${salam} kak ${pushname}_
   *📚 List Menu : ${botname}*
 
   *GROUP MENU*
-  *≻* ${prefix}linkgroup
-  *≻* ${prefix}ephemeral [option]
-  *≻* ${prefix}setppgc
-  *≻* ${prefix}setname 
-  *≻* ${prefix}setdesc 
-  *≻* ${prefix}group [option]
-  *≻* ${prefix}editinfo [option]
-  *≻* ${prefix}add @user
-  *≻* ${prefix}kick @user
-  *≻* ${prefix}hidetag 
-  *≻* ${prefix}tagall 
-  *≻* ${prefix}antilink [on/off]
-  *≻* ${prefix}mute [on/off]
-  *≻* ${prefix}promote @user
-  *≻* ${prefix}demote @user
-  *≻* ${prefix}vote 
-  *≻* ${prefix}devote
-  *≻* ${prefix}upvote
-  *≻* ${prefix}cekvote
-  *≻* ${prefix}hapusvote
+  *✘* ${prefix}linkgroup
+  *✘* ${prefix}ephemeral [option]
+  *✘* ${prefix}setppgc
+  *✘* ${prefix}setname 
+  *✘* ${prefix}setdesc 
+  *✘* ${prefix}group [option]
+  *✘* ${prefix}editinfo [option]
+  *✘* ${prefix}add @user
+  *✘* ${prefix}kick @user
+  *✘* ${prefix}hidetag 
+  *✘* ${prefix}tagall 
+  *✘* ${prefix}antilink [on/off]
+  *✘* ${prefix}mute [on/off]
+  *✘* ${prefix}promote @user
+  *✘* ${prefix}demote @user
+  *✘* ${prefix}vote 
+  *✘* ${prefix}devote
+  *✘* ${prefix}upvote
+  *✘* ${prefix}cekvote
+  *✘* ${prefix}hapusvote
   
   *DOWNLOADER MENU*
   *≻* ${prefix}tiktoknowm 
@@ -404,29 +410,21 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}tupai
   
   *OWNER MENU*
-  *≻* ${prefix}react [emoji]
-  *≻* ${prefix}chat [option]
-  *≻* ${prefix}join [link]
-  *≻* ${prefix}leave
-  *≻* ${prefix}block @user
-  *≻* ${prefix}unblock @user
-  *≻* ${prefix}bcgroup 
-  *≻* ${prefix}bcall 
-  *≻* ${prefix}setppbot  
-  *≻* ${prefix}setexif
-  *≻* ${prefix}setmenu
-  *≻* ${prefix}setallmenu
+  *✘* ${prefix}react [emoji]
+  *✘* ${prefix}chat [option]
+  *✘* ${prefix}join [link]
+  *✘* ${prefix}leave
+  *✘* ${prefix}block @user
+  *✘* ${prefix}unblock @user
+  *✘* ${prefix}bcgroup 
+  *✘* ${prefix}bcall 
+  *✘* ${prefix}setppbot  
+  *✘* ${prefix}setexif
+  *✘* ${prefix}setmenu
+  *✘* ${prefix}setallmenu
   
   *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* Sendi (Developer)
   `
 }
 
