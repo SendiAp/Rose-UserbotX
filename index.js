@@ -17,7 +17,7 @@ const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream
 
 async function startRoseBotInc() {
     let { version, isLatest } = await fetchLatestBaileysVersion()
-    const RoseBotInc = RoseBotInc({
+    const RoseBotInc = RoseBotIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
         browser: ['SUB DRIPS OFC','Safari','1.0.0'],
