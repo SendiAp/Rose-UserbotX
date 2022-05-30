@@ -159,7 +159,7 @@ RoseBotInc.ev.on('group-participants.update', async (anu) => {
         else v = id === '0@s.whatsapp.net' ? {
             id,
             name: 'WhatsApp'
-        } : id === RoseBotInc.decodeJid(.user.id) ?
+        } : id === RoseBotInc.decodeJid(RoseBotInc.user.id) ?
             RoseBotInc.user :
             (store.contacts[id] || {})
             return (withoutContact ? '' : v.name) || v.subject || v.verifiedName || PhoneNumber('+' + jid.replace('@s.whatsapp.net', '')).getNumber('international')
