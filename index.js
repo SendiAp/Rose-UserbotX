@@ -117,7 +117,7 @@ RoseBotInc.ev.on('group-participants.update', async (anu) => {
                   ]
                   const buttonMessage = {
                     text: `*LEAVING* ${metadata.subject} @${num.split("@")[0]} *DONT COME BACK HERE OKAY!*`,
-                    footer: ROSE BOT INC',
+                    footer: 'ROSE BOT INC',
                     buttons: buttons,
                     headerType: 1
                   
