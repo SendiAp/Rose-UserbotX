@@ -530,7 +530,7 @@ RoseBotInc.ev.on('group-participants.update', async (anu) => {
 
     }
 
-    return ZimBotInc
+    return RoseBotInc
 }
 
 startRoseBotInc()
