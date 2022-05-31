@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @Sendi
 › Base Ori @DikaArdnt
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
@@ -7,21 +7,26 @@
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
-	return`[🌹*WELCOME ROSE-USERBOT*🌹]
+	return`[🌹WELCOME ROSE-USERBOT🌹]
 
 ┌── 「 *ALIVE USERBOT* 」──
 ├ 🫂 *Name* : Userbot 
 ├ 🌹 *Branch* : Rose-Userbot
-├ 📞 *Number* : 6285894831504
+├ 📞 *Number* : 6285313937918
 ├ 👑 *Owner* : Sendi
 ├ 🖥️ *Platform* : Linux
 ├ 🤖 *Command* : Support [#]
-└─────────────────────`
+└────────────────────`
 }
 
 //—————「 List 」—————//
 exports.list = (pushname) => {
-	return`Halo kak ${pushname}, silahkan dipilih list menu dibawah ini`
+	return`Halo kak ${pushname}, silahkan dipilih list menu dibawah ini.
+
+*Example* : 
+❌ : Eror / Tidak Bisa Digunakan.
+♻️ : Tidak Sempurna.
+(Jika tidak ada simbol diatas berarti modules bisa digunakan)`
 }
 
 //—————「 All Menu 」—————//
@@ -63,7 +68,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *✘* ${prefix}facebook 
   *✘* ${prefix}pinterestdl 
   *✘* ${prefix}ytmp3 
-  *≻* ${prefix}ytmp4 
+  *✘* ${prefix}ytmp4 
   *✘* ${prefix}getmusic 
   *✘* ${prefix}getvideo 
   *✘* ${prefix}umma 
@@ -71,28 +76,28 @@ return`  _Selamat ${salam} kak ${pushname}_
   *✘* ${prefix}soundcloud 
   
   *SEARCH MENU*
-  *≻* ${prefix}play 
-  *≻* ${prefix}yts 
-  *≻* ${prefix}google 
-  *≻* ${prefix}gimage 
-  *≻* ${prefix}pinterest 
-  *≻* ${prefix}wikimedia 
-  *≻* ${prefix}ytsearch 
-  *≻* ${prefix}ringtone 
-  *≻* ${prefix}stalk [option] 
-  *≻* ${prefix}webtoons 
-  *≻* ${prefix}drakor 
-  *≻* ${prefix}animesearch 
-  *≻* ${prefix}character 
-  *≻* ${prefix}manga 
-  *≻* ${prefix}playstore 
-  *≻* ${prefix}gsmarena 
-  *≻* ${prefix}jadwalbioskop 
-  *≻* ${prefix}nowplayingbioskop 
-  *≻* ${prefix}aminio 
-  *≻* ${prefix}wattpad 
-  *≻* ${prefix}webtoons 
-  *≻* ${prefix}drakor 
+  *✘* ${prefix}play 
+  *✘* ${prefix}yts 
+  *✘* ${prefix}google 
+  *✘* ${prefix}gimage 
+  *✘* ${prefix}pinterest 
+  *✘* ${prefix}wikimedia 
+  *✘* ${prefix}ytsearch 
+  *✘* ${prefix}ringtone 
+  *✘* ${prefix}stalk [option] 
+  *✘* ${prefix}webtoons 
+  *✘* ${prefix}drakor 
+  *✘* ${prefix}animesearch 
+  *✘* ${prefix}character 
+  *✘* ${prefix}manga 
+  *✘* ${prefix}playstore 
+  *✘* ${prefix}gsmarena 
+  *✘* ${prefix}jadwalbioskop 
+  *✘* ${prefix}nowplayingbioskop 
+  *✘* ${prefix}aminio 
+  *✘* ${prefix}wattpad 
+  *✘* ${prefix}webtoons 
+  *✘* ${prefix}drakor 
   
   *TELE STICK MENU*
   *≻* ${prefix}gurastick
@@ -761,13 +766,13 @@ exports.primbonmenu = (prefix) => {
 exports.cerpenmenu = (prefix) => {
 	return`
   *CERPEN MENU*
-  *≻* ${prefix}cerpen anak
-  *≻* ${prefix}cerpen bahasa daerah
-  *≻* ${prefix}cerpen bahasa inggris
-  *≻* ${prefix}cerpen bahasa jawa
-  *≻* ${prefix}cerpen bahasa sunda
-  *≻* ${prefix}cerpen budaya
-  *≻* ${prefix}cerpen cinta
+  *✘* ${prefix}cerpen anak
+  *✘* ${prefix}cerpen bahasa daerah
+  *✘* ${prefix}cerpen bahasa inggris
+  *✘* ${prefix}cerpen bahasa jawa
+  *✘* ${prefix}cerpen bahasa sunda
+  *✘* ${prefix}cerpen budaya
+  *✘* ${prefix}cerpen cinta
   *≻* ${prefix}cerpen cinta islami
   *≻* ${prefix}cerpen cinta pertama
   *≻* ${prefix}cerpen cinta romantis
@@ -821,111 +826,111 @@ exports.cerpenmenu = (prefix) => {
 exports.convertmenu = (prefix) => {
 	return`
   *CONVERT MENU*
-  *≻* ${prefix}toimage
-  *≻* ${prefix}removebg
-  *≻* ${prefix}sticker
-  *≻* ${prefix}emojimix
-  *≻* ${prefix}tovideo
-  *≻* ${prefix}togif
-  *≻* ${prefix}tourl
-  *≻* ${prefix}tovn
-  *≻* ${prefix}tomp3
-  *≻* ${prefix}toaudio
-  *≻* ${prefix}ebinary
-  *≻* ${prefix}dbinary
-  *≻* ${prefix}styletext
+  *✘* ${prefix}toimage
+  *✘* ${prefix}removebg (❌)
+  *✘* ${prefix}sticker
+  *✘* ${prefix}emojimix
+  *✘* ${prefix}tovideo
+  *✘* ${prefix}togif
+  *✘* ${prefix}tourl (❌)
+  *✘* ${prefix}tovn (❌)
+  *✘* ${prefix}tomp3 (❌)
+  *✘* ${prefix}toaudio (❌)
+  *✘* ${prefix}ebinary (❌)
+  *✘* ${prefix}dbinary (❌)
+  *✘* ${prefix}styletext
   `
 }
 
 exports.informationmenu = (prefix) => {
 	return`
   *INFORMATION MENU*
-  *≻* ${prefix}merdeka-news 
-  *≻* ${prefix}kontan-news 
-  *≻* ${prefix}cnbc-news 
-  *≻* ${prefix}tribun-news 
-  *≻* ${prefix}indozone-news 
-  *≻* ${prefix}kompas-news 
-  *≻* ${prefix}detik-news 
-  *≻* ${prefix}daily-news 
-  *≻* ${prefix}inews-news 
-  *≻* ${prefix}okezone-news 
-  *≻* ${prefix}sindo-news 
-  *≻* ${prefix}tempo-news 
-  *≻* ${prefix}antara-news 
-  *≻* ${prefix}cnn-news 
-  *≻* ${prefix}fajar-news
+  *✘* ${prefix}merdeka-news 
+  *✘* ${prefix}kontan-news 
+  *✘* ${prefix}cnbc-news 
+  *✘* ${prefix}tribun-news 
+  *✘* ${prefix}indozone-news 
+  *✘* ${prefix}kompas-news 
+  *✘* ${prefix}detik-news 
+  *✘* ${prefix}daily-news 
+  *✘* ${prefix}inews-news 
+  *✘* ${prefix}okezone-news 
+  *✘* ${prefix}sindo-news 
+  *✘* ${prefix}tempo-news 
+  *✘* ${prefix}antara-news 
+  *✘* ${prefix}cnn-news 
+  *✘* ${prefix}fajar-news
 `
 }
 
 exports.mainmenu = (prefix) => {
 	return`
   *MAIN MENU*
-  *≻* ${prefix}script
-  *≻* ${prefix}ping
-  *≻* ${prefix}runtime
-  *≻* ${prefix}speed
-  *≻* ${prefix}owner
-  *≻* ${prefix}menu
-  *≻* ${prefix}delete
-  *≻* ${prefix}infochat
-  *≻* ${prefix}quoted
-  *≻* ${prefix}listpc
-  *≻* ${prefix}listgc
-  *≻* ${prefix}listonline
+  *✘* ${prefix}script
+  *✘* ${prefix}ping
+  *✘* ${prefix}runtime
+  *✘* ${prefix}speed
+  *✘* ${prefix}owner
+  *✘* ${prefix}menu
+  *✘* ${prefix}delete
+  *✘* ${prefix}infochat
+  *✘* ${prefix}quoted
+  *✘* ${prefix}listpc
+  *✘* ${prefix}listgc
+  *✘* ${prefix}listonline
   `
 }
 
 exports.databasemenu = (prefix) => {
 	return`
   *DATABASE MENU*
-  *≻* ${prefix}setcmd
-  *≻* ${prefix}listcmd
-  *≻* ${prefix}delcmd
-  *≻* ${prefix}lockcmd
-  *≻* ${prefix}addmsg
-  *≻* ${prefix}listmsg
-  *≻* ${prefix}getmsg
-  *≻* ${prefix}delmsg
+  *✘* ${prefix}setcmd
+  *✘* ${prefix}listcmd
+  *✘* ${prefix}delcmd
+  *✘* ${prefix}lockcmd
+  *✘* ${prefix}addmsg
+  *✘* ${prefix}listmsg
+  *✘* ${prefix}getmsg
+  *✘* ${prefix}delmsg
 `
 }
 
 exports.anonymousmenu = (prefix) => {
 	return`
   *ANONYMOUS CHAT*
-  *≻* ${prefix}anonymous
-  *≻* ${prefix}start
-  *≻* ${prefix}next
-  *≻* ${prefix}keluar
-  *≻* ${prefix}sendkontak
+  *✘* ${prefix}anonymous
+  *✘* ${prefix}start
+  *✘* ${prefix}next
+  *✘* ${prefix}keluar
+  *✘* ${prefix}sendkontak 
   `
 }
 
 exports.islamicmenu = (prefix) => {
 	return`
   *ISLAMIC MENU*
-  *≻* ${prefix}iqra
-  *≻* ${prefix}hadist
-  *≻* ${prefix}alquran
-  *≻* ${prefix}juzamma
-  *≻* ${prefix}tafsirsurah
+  *✘* ${prefix}iqra (♻️)
+  *✘* ${prefix}hadist (♻️)
+  *✘* ${prefix}alquran (♻️)
+  *✘* ${prefix}juzamma (♻️)
+  *✘* ${prefix}tafsirsurah (♻️)
   `
 }
 
 exports.voicechargermenu = (prefix) => {
 	return`
   *VOICE CHANGER*
-  *≻* ${prefix}bass
-  *≻* ${prefix}blown
-  *≻* ${prefix}deep
-  *≻* ${prefix}earrape
-  *≻* ${prefix}fast
-  *≻* ${prefix}fat
-  *≻* ${prefix}nightcore
-  *≻* ${prefix}reverse
-  *≻* ${prefix}robot
-  *≻* ${prefix}slow
-  *≻* ${prefix}tupai
+  *✘* ${prefix}bass
+  *✘* ${prefix}blown
+  *✘* ${prefix}deep
+  *✘* ${prefix}earrape
+  *✘* ${prefix}fast
+  *✘* ${prefix}fat
+  *✘* ${prefix}nightcore
+  *✘* ${prefix}reverse
+  *✘* ${prefix}robot
+  *✘* ${prefix}slow
+  *✘* ${prefix}tupai
   `
 }
 
