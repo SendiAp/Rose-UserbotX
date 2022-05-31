@@ -42,7 +42,7 @@ global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© Rose-Userbot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Sendi' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = 'Rose-Userbot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
