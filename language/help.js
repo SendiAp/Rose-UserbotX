@@ -23,9 +23,8 @@ exports.menu = (botname, pushname, salam) => {
 exports.list = (pushname) => {
 	return`Halo kak ${pushname}, silahkan dipilih list menu dibawah ini.
 
-*Example* : 
-❌ : Eror / Tidak Bisa Digunakan.
-(Jika tidak ada simbol diatas berarti modules bisa digunakan)`
+Jika ada kesalahan atau modules tidak berfungsi,
+tolong dimaklumin.`
 }
 
 //—————「 All Menu 」—————//
