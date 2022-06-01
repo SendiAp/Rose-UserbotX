@@ -449,33 +449,27 @@ exports.donasi  = (ownernomer) => {
 	return`
 —————「 *DONATE* 」—————
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-Berapapun donasi kalian akan sangat berarti 👍
+Terimakasih telah menggunakan bot ini👋
 
-Thanks!
+Anda tau betapa sulitnya membuat bot ini? 
+Agar bot tetap berjalan/bertahan donasikan seikhlasnya 
+Kami akan mengembangkan beberapa modules
+Lainnya..
 
-—————「 *SEWA | RUN BOT* 」—————
+———「 *PEMBAYARAN* 」———
 
-  *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
-  *≻* Sewa Bot 20k (1 bulan)
-  *≻* Sewa Bot 25k (Permanen)
-
-  *JADI BOT* 
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 20k (1 bulan)
-  *≻* Jadi Bot + Owner 25k (Permanen)
-
-  *JASA RUN BOT*
-  *≻* Run Bot 15k (1 minggu)
-  *≻* Run Bot 20k (1 bulan)
-  *≻* Run Bot 25k (Permanen)
-
-  *Minat? Langsung chat aja ya cuy 🐦*
+IM3 : 6285894831504
+Bank BCA : Chat Pribadi Owner
+Bank BRI : Chat Pribadi Owner
+Shopepay : Chat Pribadi Owner
 
   *Contact person Owner* :
   wa.me/${ownernomer}
+
+———「 *INFORMASI* 」———
+
+Jika Ada modules yang tidak bisa digunakan silahkan hubungi owner 
+kami akan menandai nya untuk sementara.
 `
 }
 
@@ -509,28 +503,28 @@ exports.groupmenu = (prefix) => {
 exports.downloadermenu = (prefix) => {
 	return`
   *DOWNLOADER MENU*
-  *✘* ${prefix}tiktoknowm 
-  *✘* ${prefix}tiktokwm 
-  *✘* ${prefix}tiktokmp3 
-  *✘* ${prefix}instagram 
-  *✘* ${prefix}twitter 
-  *✘* ${prefix}twittermp3 
-  *✘* ${prefix}facebook 
-  *✘* ${prefix}pinterestdl 
-  *✘* ${prefix}ytmp3 
-  *✘* ${prefix}ytmp4 
-  *✘* ${prefix}getmusic 
-  *✘* ${prefix}getvideo 
-  *✘* ${prefix}umma 
-  *✘* ${prefix}joox 
-  *✘* ${prefix}soundcloud 
+  *✘* ${prefix}tiktoknowm (❌)
+  *✘* ${prefix}tiktokwm (❌)
+  *✘* ${prefix}tiktokmp3 (❌)
+  *✘* ${prefix}instagram (❌)
+  *✘* ${prefix}twitter (❌)
+  *✘* ${prefix}twittermp3 (❌)
+  *✘* ${prefix}facebook (❌)
+  *✘* ${prefix}pinterestdl (❌)
+  *✘* ${prefix}ytmp3 (❌)
+  *✘* ${prefix}ytmp4 (❌)
+  *✘* ${prefix}getmusic (❌)
+  *✘* ${prefix}getvideo (❌)
+  *✘* ${prefix}umma (❌)
+  *✘* ${prefix}joox (❌)
+  *✘* ${prefix}soundcloud (❌)
   `
 }
 
 exports.searchmenu = (prefix) => {
 	return`
   *SEARCH MENU*
-  *✘* ${prefix}play 
+  *✘* ${prefix}play (❌)
   *✘* ${prefix}yts 
   *✘* ${prefix}google 
   *✘* ${prefix}gimage 
@@ -822,10 +816,6 @@ exports.cerpenmenu = (prefix) => {
   `
 }
 
-
-`
-}
-
 exports.convertmenu = (prefix) => {
 	return`
   *CONVERT MENU*
@@ -869,7 +859,7 @@ exports.informationmenu = (prefix) => {
 exports.mainmenu = (prefix) => {
 	return`
   *MAIN MENU*
-  *✘* ${prefix}script
+  *✘* ${prefix}script (❌)
   *✘* ${prefix}ping
   *✘* ${prefix}runtime
   *✘* ${prefix}speed
@@ -889,7 +879,7 @@ exports.databasemenu = (prefix) => {
   *DATABASE MENU*
   *✘* ${prefix}setcmd
   *✘* ${prefix}listcmd
-  *✘* ${prefix}delcmd
+  *✘* ${prefix}delcmd (❌)
   *✘* ${prefix}lockcmd
   *✘* ${prefix}addmsg
   *✘* ${prefix}listmsg
@@ -905,18 +895,18 @@ exports.anonymousmenu = (prefix) => {
   *✘* ${prefix}start
   *✘* ${prefix}next
   *✘* ${prefix}keluar
-  *✘* ${prefix}sendkontak 
+  *✘* ${prefix}sendkontak (❌)
   `
 }
 
 exports.islamicmenu = (prefix) => {
 	return`
   *ISLAMIC MENU*
-  *✘* ${prefix}iqra (♻️)
-  *✘* ${prefix}hadist (♻️)
-  *✘* ${prefix}alquran (♻️)
-  *✘* ${prefix}juzamma (♻️)
-  *✘* ${prefix}tafsirsurah (♻️)
+  *✘* ${prefix}iqra (❌)
+  *✘* ${prefix}hadist (❌)
+  *✘* ${prefix}alquran (❌)
+  *✘* ${prefix}juzamma (❌)
+  *✘* ${prefix}tafsirsurah (❌)
   `
 }
 
