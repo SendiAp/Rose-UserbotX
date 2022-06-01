@@ -29,14 +29,14 @@ global.ownernomer = '6285894831504' //ubah jadi nomor mu, note tanda ' gausah di
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Sendi' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = '🌹 Rose-Userbot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Sendi' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = 'Rose-Userbot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/ndiap04'
 global.mygc = 'https://wa.me/qr/L44VK7PMOIMOD1'
-global.myweb = 'https://t.me/fckyoupeople1'
+global.myweb = 'https://chat.whatsapp.com/KJZWBMHRy9B7Jo2uzTZvgV'
 global.email = 'snktlg4@gmail.com'
 global.region = 'indonesia'
 
