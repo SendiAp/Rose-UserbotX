@@ -27,7 +27,7 @@ global.premium = ['6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6285894831504' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Sendi' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Rose-Userbot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = '🌹 Rose-Userbot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Rose-Userbot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
