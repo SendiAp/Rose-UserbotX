@@ -25,7 +25,6 @@ exports.list = (pushname) => {
 
 *Example* : 
 ❌ : Eror / Tidak Bisa Digunakan.
-♻️ : Tidak Sempurna.
 (Jika tidak ada simbol diatas berarti modules bisa digunakan)`
 }
 
@@ -100,10 +99,10 @@ return`  _Selamat ${salam} kak ${pushname}_
   *✘* ${prefix}drakor 
   
   *TELE STICK MENU*
-  *≻* ${prefix}gurastick
-  *≻* ${prefix}dogestick
-  *≻* ${prefix}bucinstick
-  *≻* ${prefix}patrick
+  *✘* ${prefix}gurastick
+  *✘* ${prefix}dogestick
+  *✘* ${prefix}bucinstick
+  *✘* ${prefix}patrick
   
   *RANDOM MENU*
   *✘* ${prefix}coffe
@@ -189,90 +188,90 @@ return`  _Selamat ${salam} kak ${pushname}_
   *PHOTO OXY MENU*
   *✘* ${prefix}shadow
   *✘* ${prefix}romantic
-  *≻* ${prefix}smoke
-  *≻* ${prefix}burnpapper
-  *≻* ${prefix}naruto
-  *≻* ${prefix}lovemsg
-  *≻* ${prefix}grassmsg
-  *≻* ${prefix}lovetext
-  *≻* ${prefix}coffecup
-  *≻* ${prefix}butterfly
-  *≻* ${prefix}harrypotter
-  *≻* ${prefix}retrolol
+  *✘* ${prefix}smoke
+  *✘* ${prefix}burnpapper
+  *✘* ${prefix}naruto
+  *✘* ${prefix}lovemsg
+  *✘* ${prefix}grassmsg
+  *✘* ${prefix}lovetext
+  *✘* ${prefix}coffecup
+  *✘* ${prefix}butterfly
+  *✘* ${prefix}harrypotter
+  *✘* ${prefix}retrolol
   
   *EPHOTO MENU*
-  *≻* ${prefix}ffcover
-  *≻* ${prefix}crossfire
-  *≻* ${prefix}galaxy
-  *≻* ${prefix}glass
-  *≻* ${prefix}neon
-  *≻* ${prefix}beach
-  *≻* ${prefix}blackpink
-  *≻* ${prefix}igcertificate
-  *≻* ${prefix}ytcertificate
+  *✘* ${prefix}ffcover
+  *✘* ${prefix}crossfire
+  *✘* ${prefix}galaxy
+  *✘* ${prefix}glass
+  *✘* ${prefix}neon
+  *✘* ${prefix}beach
+  *✘* ${prefix}blackpink
+  *✘* ${prefix}igcertificate
+  *✘* ${prefix}ytcertificate
   
   *GAME & FUN MENU*
-  *≻* ${prefix}simih
-  *≻* ${prefix}bagaimanakah
-  *≻* ${prefix}kapankah
-  *≻* ${prefix}apakah
-  *≻* ${prefix}bisakah
-  *≻* ${prefix}rate
-  *≻* ${prefix}wangy
-  *≻* ${prefix}gantengcek
-  *≻* ${prefix}cekganteng
-  *≻* ${prefix}cantikcek
-  *≻* ${prefix}cekcantik
-  *≻* ${prefix}sangecek
-  *≻* ${prefix}ceksange
-  *≻* ${prefix}gaycek
-  *≻* ${prefix}cekgay
-  *≻* ${prefix}lesbicek
-  *≻* ${prefix}halah
-  *≻* ${prefix}hilih
-  *≻* ${prefix}huluh
-  *≻* ${prefix}heleh
-  *≻* ${prefix}holoh
-  *≻* ${prefix}jadian
-  *≻* ${prefix}jodohku
-  *≻* ${prefix}tictactoe
-  *≻* ${prefix}delttt
-  *≻* ${prefix}family100
-  *≻* ${prefix}tebak [option]
-  *≻* ${prefix}math [mode]
-  *≻* ${prefix}suitpvp [@tag]
+  *✘* ${prefix}simih
+  *✘* ${prefix}bagaimanakah
+  *✘* ${prefix}kapankah
+  *✘* ${prefix}apakah
+  *✘* ${prefix}bisakah
+  *✘* ${prefix}rate
+  *✘* ${prefix}wangy
+  *✘* ${prefix}gantengcek
+  *✘* ${prefix}cekganteng
+  *✘* ${prefix}cantikcek
+  *✘* ${prefix}cekcantik
+  *✘* ${prefix}sangecek
+  *✘* ${prefix}ceksange
+  *✘* ${prefix}gaycek
+  *✘* ${prefix}cekgay
+  *✘* ${prefix}lesbicek
+  *✘* ${prefix}halah
+  *✘* ${prefix}hilih
+  *✘* ${prefix}huluh
+  *✘* ${prefix}heleh
+  *✘* ${prefix}holoh
+  *✘* ${prefix}jadian
+  *✘* ${prefix}jodohku
+  *✘* ${prefix}tictactoe
+  *✘* ${prefix}delttt
+  *✘* ${prefix}family100
+  *✘* ${prefix}tebak [option]
+  *✘* ${prefix}math [mode]
+  *✘* ${prefix}suitpvp [@tag]
 
   *PRIMBON MENU*
-  *≻* ${prefix}nomorhoki
-  *≻* ${prefix}artimimpi
-  *≻* ${prefix}artinama
-  *≻* ${prefix}ramaljodoh
-  *≻* ${prefix}ramaljodohbali
-  *≻* ${prefix}suamiistri
-  *≻* ${prefix}ramalcinta
-  *≻* ${prefix}cocoknama
-  *≻* ${prefix}pasangan
-  *≻* ${prefix}jadiannikah
-  *≻* ${prefix}sifatusaha
-  *≻* ${prefix}rezeki
-  *≻* ${prefix}pekerjaan
-  *≻* ${prefix}nasib
-  *≻* ${prefix}penyakit
-  *≻* ${prefix}tarot
-  *≻* ${prefix}fengshui
-  *≻* ${prefix}haribaik
-  *≻* ${prefix}harisangar
-  *≻* ${prefix}harisial
-  *≻* ${prefix}nagahari
-  *≻* ${prefix}arahrezeki
-  *≻* ${prefix}peruntungan
-  *≻* ${prefix}weton
-  *≻* ${prefix}karakter
-  *≻* ${prefix}keberuntungan
-  *≻* ${prefix}memancing
-  *≻* ${prefix}masasubur
-  *≻* ${prefix}zodiak
-  *≻* ${prefix}shio
+  *✘* ${prefix}nomorhoki
+  *✘* ${prefix}artimimpi
+  *✘* ${prefix}artinama
+  *✘* ${prefix}ramaljodoh
+  *✘* ${prefix}ramaljodohbali
+  *✘* ${prefix}suamiistri
+  *✘* ${prefix}ramalcinta
+  *✘* ${prefix}cocoknama
+  *✘* ${prefix}pasangan
+  *✘* ${prefix}jadiannikah
+  *✘* ${prefix}sifatusaha
+  *✘* ${prefix}rezeki
+  *✘* ${prefix}pekerjaan
+  *✘* ${prefix}nasib
+  *✘* ${prefix}penyakit
+  *✘* ${prefix}tarot
+  *✘* ${prefix}fengshui
+  *✘* ${prefix}haribaik
+  *✘* ${prefix}harisangar
+  *✘* ${prefix}harisial
+  *✘* ${prefix}nagahari
+  *✘* ${prefix}arahrezeki
+  *✘* ${prefix}peruntungan
+  *✘* ${prefix}weton
+  *✘* ${prefix}karakter
+  *✘* ${prefix}keberuntungan
+  *✘* ${prefix}memancing
+  *✘* ${prefix}masasubur
+  *✘* ${prefix}zodiak
+  *✘* ${prefix}shio
 
   *CERPEN MENU*
   *✘* ${prefix}cerpen anak
