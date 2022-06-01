@@ -483,282 +483,282 @@ Thanks!
 exports.groupmenu = (prefix) => {
 	return`
   *GROUP MENU*
-  *≻* ${prefix}linkgroup
-  *≻* ${prefix}ephemeral [option]
-  *≻* ${prefix}setppgc  
-  *≻* ${prefix}setname 
-  *≻* ${prefix}setdesc 
-  *≻* ${prefix}group [option]
-  *≻* ${prefix}editinfo [option]
-  *≻* ${prefix}add @user
-  *≻* ${prefix}kick @user
-  *≻* ${prefix}hidetag 
-  *≻* ${prefix}tagall 
-  *≻* ${prefix}antilink [on/off]
-  *≻* ${prefix}mute [on/off]
-  *≻* ${prefix}promote @user
-  *≻* ${prefix}demote @user
-  *≻* ${prefix}vote 
-  *≻* ${prefix}devote
-  *≻* ${prefix}upvote
-  *≻* ${prefix}cekvote
-  *≻* ${prefix}hapusvote
+  *✘* ${prefix}linkgroup
+  *✘* ${prefix}ephemeral [option]
+  *✘* ${prefix}setppgc
+  *✘* ${prefix}setname 
+  *✘* ${prefix}setdesc 
+  *✘* ${prefix}group [option]
+  *✘* ${prefix}editinfo [option]
+  *✘* ${prefix}add @user
+  *✘* ${prefix}kick @user
+  *✘* ${prefix}hidetag 
+  *✘* ${prefix}tagall 
+  *✘* ${prefix}antilink [on/off]
+  *✘* ${prefix}mute [on/off]
+  *✘* ${prefix}promote @user
+  *✘* ${prefix}demote @user
+  *✘* ${prefix}vote 
+  *✘* ${prefix}devote
+  *✘* ${prefix}upvote
+  *✘* ${prefix}cekvote
+  *✘* ${prefix}hapusvote
   `
 }
 
 exports.downloadermenu = (prefix) => {
 	return`
   *DOWNLOADER MENU*
-  *≻* ${prefix}tiktoknowm 
-  *≻* ${prefix}tiktokwm 
-  *≻* ${prefix}tiktokmp3 
-  *≻* ${prefix}instagram 
-  *≻* ${prefix}twitter 
-  *≻* ${prefix}twittermp3 
-  *≻* ${prefix}facebook 
-  *≻* ${prefix}pinterestdl 
-  *≻* ${prefix}ytmp3 
-  *≻* ${prefix}ytmp4 
-  *≻* ${prefix}getmusic 
-  *≻* ${prefix}getvideo 
-  *≻* ${prefix}umma 
-  *≻* ${prefix}joox 
-  *≻* ${prefix}soundcloud 
+  *✘* ${prefix}tiktoknowm 
+  *✘* ${prefix}tiktokwm 
+  *✘* ${prefix}tiktokmp3 
+  *✘* ${prefix}instagram 
+  *✘* ${prefix}twitter 
+  *✘* ${prefix}twittermp3 
+  *✘* ${prefix}facebook 
+  *✘* ${prefix}pinterestdl 
+  *✘* ${prefix}ytmp3 
+  *✘* ${prefix}ytmp4 
+  *✘* ${prefix}getmusic 
+  *✘* ${prefix}getvideo 
+  *✘* ${prefix}umma 
+  *✘* ${prefix}joox 
+  *✘* ${prefix}soundcloud 
   `
 }
 
 exports.searchmenu = (prefix) => {
 	return`
   *SEARCH MENU*
-  *≻* ${prefix}play 
-  *≻* ${prefix}yts 
-  *≻* ${prefix}google 
-  *≻* ${prefix}gimage 
-  *≻* ${prefix}pinterest 
-  *≻* ${prefix}wikimedia 
-  *≻* ${prefix}ytsearch 
-  *≻* ${prefix}ringtone 
-  *≻* ${prefix}stalk [option] 
-  *≻* ${prefix}webtoons 
-  *≻* ${prefix}drakor 
-  *≻* ${prefix}animesearch 
-  *≻* ${prefix}character 
-  *≻* ${prefix}manga 
-  *≻* ${prefix}playstore 
-  *≻* ${prefix}gsmarena 
-  *≻* ${prefix}jadwalbioskop 
-  *≻* ${prefix}nowplayingbioskop 
-  *≻* ${prefix}aminio 
-  *≻* ${prefix}wattpad 
-  *≻* ${prefix}webtoons 
-  *≻* ${prefix}drakor 
+  *✘* ${prefix}play 
+  *✘* ${prefix}yts 
+  *✘* ${prefix}google 
+  *✘* ${prefix}gimage 
+  *✘* ${prefix}pinterest 
+  *✘* ${prefix}wikimedia 
+  *✘* ${prefix}ytsearch 
+  *✘* ${prefix}ringtone 
+  *✘* ${prefix}stalk [option] 
+  *✘* ${prefix}webtoons 
+  *✘* ${prefix}drakor 
+  *✘* ${prefix}animesearch 
+  *✘* ${prefix}character 
+  *✘* ${prefix}manga 
+  *✘* ${prefix}playstore 
+  *✘* ${prefix}gsmarena 
+  *✘* ${prefix}jadwalbioskop 
+  *✘* ${prefix}nowplayingbioskop 
+  *✘* ${prefix}aminio 
+  *✘* ${prefix}wattpad 
+  *✘* ${prefix}webtoons 
+  *✘* ${prefix}drakor 
   `
 }
 
 exports.telestickmenu = (prefix) => {
 	return`
   *TELE STICK MENU*
-  *≻* ${prefix}gurastick
-  *≻* ${prefix}dogestick
-  *≻* ${prefix}bucinstick
-  *≻* ${prefix}patrick
+  *✘* ${prefix}gurastick
+  *✘* ${prefix}dogestick
+  *✘* ${prefix}bucinstick
+  *✘* ${prefix}patrick
 `
 }
 
 exports.randommenu = (prefix) => {
 	return`
   *RANDOM MENU*
-  *≻* ${prefix}coffe
-  *≻* ${prefix}quotesanime
-  *≻* ${prefix}couple
-  *≻* ${prefix}darkjokes
+  *✘* ${prefix}coffe
+  *✘* ${prefix}quotesanime
+  *✘* ${prefix}couple
+  *✘* ${prefix}darkjokes
   `
 }
 
 exports.randomanimemenu = (prefix) => {
 	return`
   *RANDOM ANIME MENU*
-  *≻* ${prefix}loli
-  *≻* ${prefix}neko
-  *≻* ${prefix}waifu
-  *≻* ${prefix}shinobu
-  *≻* ${prefix}megumin
-  *≻* ${prefix}bully
-  *≻* ${prefix}cuddle
-  *≻* ${prefix}cry
-  *≻* ${prefix}hug
-  *≻* ${prefix}awoo
-  *≻* ${prefix}kiss
-  *≻* ${prefix}lick
-  *≻* ${prefix}pat
-  *≻* ${prefix}smug
-  *≻* ${prefix}bonk
-  *≻* ${prefix}yeet
-  *≻* ${prefix}blush
-  *≻* ${prefix}smile
-  *≻* ${prefix}wave
-  *≻* ${prefix}highfive
-  *≻* ${prefix}handhold
-  *≻* ${prefix}nom
-  *≻* ${prefix}bite
-  *≻* ${prefix}glomp
-  *≻* ${prefix}slap
-  *≻* ${prefix}kill
-  *≻* ${prefix}happy
-  *≻* ${prefix}wink
-  *≻* ${prefix}poke
-  *≻* ${prefix}dance
-  *≻* ${prefix}cringe
-  *≻* ${prefix}anime
-  *≻* ${prefix}waifu
-  *≻* ${prefix}husbu
-  *≻* ${prefix}neko
-  *≻* ${prefix}shinobu
-  *≻* ${prefix}waifus 
-  *≻* ${prefix}nekos 
-  *≻* ${prefix}trap 
-  *≻* ${prefix}blowjob 
+  *✘* ${prefix}loli
+  *✘* ${prefix}neko
+  *✘* ${prefix}waifu
+  *✘* ${prefix}shinobu
+  *✘* ${prefix}megumin
+  *✘* ${prefix}bully
+  *✘* ${prefix}cuddle
+  *✘* ${prefix}cry
+  *✘* ${prefix}hug
+  *✘* ${prefix}awoo
+  *✘* ${prefix}kiss
+  *✘* ${prefix}lick
+  *✘* ${prefix}pat
+  *✘* ${prefix}smug
+  *✘* ${prefix}bonk
+  *✘* ${prefix}yeet
+  *✘* ${prefix}blush
+  *✘* ${prefix}smile
+  *✘* ${prefix}wave
+  *✘* ${prefix}highfive
+  *✘* ${prefix}handhold
+  *✘* ${prefix}nom
+  *✘* ${prefix}bite
+  *✘* ${prefix}glomp
+  *✘* ${prefix}slap
+  *✘* ${prefix}kill
+  *✘* ${prefix}happy
+  *✘* ${prefix}wink
+  *✘* ${prefix}poke
+  *✘* ${prefix}dance
+  *✘* ${prefix}cringe
+  *✘* ${prefix}anime
+  *✘* ${prefix}waifu
+  *✘* ${prefix}husbu
+  *✘* ${prefix}neko
+  *✘* ${prefix}shinobu
+  *✘* ${prefix}waifus 
+  *✘* ${prefix}nekos 
+  *✘* ${prefix}trap 
+  *✘* ${prefix}blowjob 
   `
 }
 
 exports.textpromenu = (prefix) => {
 	return`
   *TEXT PRO MENU*
-  *≻* ${prefix}3dchristmas
-  *≻* ${prefix}3ddeepsea
-  *≻* ${prefix}americanflag
-  *≻* ${prefix}3dscifi
-  *≻* ${prefix}3drainbow
-  *≻* ${prefix}3dwaterpipe
-  *≻* ${prefix}halloweenskeleton
-  *≻* ${prefix}sketch
-  *≻* ${prefix}bluecircuit
-  *≻* ${prefix}space
-  *≻* ${prefix}metallic
-  *≻* ${prefix}fiction
-  *≻* ${prefix}greenhorror
-  *≻* ${prefix}transformer
-  *≻* ${prefix}berry
-  *≻* ${prefix}thunder
-  *≻* ${prefix}magma
-  *≻* ${prefix}3dcrackedstone
-  *≻* ${prefix}3dneonlight
-  *≻* ${prefix}impressiveglitch
-  *≻* ${prefix}naturalleaves
-  *≻* ${prefix}fireworksparkle
-  *≻* ${prefix}matrix
-  *≻* ${prefix}dropwater
-  *≻* ${prefix}harrypotter
-  *≻* ${prefix}foggywindow
-  *≻* ${prefix}neondevils
-  *≻* ${prefix}christmasholiday
-  *≻* ${prefix}3dgradient
-  *≻* ${prefix}blackpink
-  *≻* ${prefix}gluetext
+  *✘* ${prefix}3dchristmas
+  *✘* ${prefix}3ddeepsea
+  *✘* ${prefix}americanflag
+  *✘* ${prefix}3dscifi
+  *✘* ${prefix}3drainbow
+  *✘* ${prefix}3dwaterpipe
+  *✘* ${prefix}halloweenskeleton
+  *✘* ${prefix}sketch
+  *✘* ${prefix}bluecircuit
+  *✘* ${prefix}space
+  *✘* ${prefix}metallic
+  *✘* ${prefix}fiction
+  *✘* ${prefix}greenhorror
+  *✘* ${prefix}transformer
+  *✘* ${prefix}berry
+  *✘* ${prefix}thunder
+  *✘* ${prefix}magma
+  *✘* ${prefix}3dcrackedstone
+  *✘* ${prefix}3dneonlight
+  *✘* ${prefix}impressiveglitch
+  *✘* ${prefix}naturalleaves
+  *✘* ${prefix}fireworksparkle
+  *✘* ${prefix}matrix
+  *✘* ${prefix}dropwater
+  *✘* ${prefix}harrypotter
+  *✘* ${prefix}foggywindow
+  *✘* ${prefix}neondevils
+  *✘* ${prefix}christmasholiday
+  *✘* ${prefix}3dgradient
+  *✘* ${prefix}blackpink
+  *✘* ${prefix}gluetext
   `
 }
 
 exports.photooxymenu = (prefix) => {
 	return`
   *PHOTO OXY MENU*
-  *≻* ${prefix}shadow
-  *≻* ${prefix}romantic
-  *≻* ${prefix}smoke
-  *≻* ${prefix}burnpapper
-  *≻* ${prefix}naruto
-  *≻* ${prefix}lovemsg
-  *≻* ${prefix}grassmsg
-  *≻* ${prefix}lovetext
-  *≻* ${prefix}coffecup
-  *≻* ${prefix}butterfly
-  *≻* ${prefix}harrypotter
-  *≻* ${prefix}retrolol
+  *✘* ${prefix}shadow
+  *✘* ${prefix}romantic
+  *✘* ${prefix}smoke
+  *✘* ${prefix}burnpapper
+  *✘* ${prefix}naruto
+  *✘* ${prefix}lovemsg
+  *✘* ${prefix}grassmsg
+  *✘* ${prefix}lovetext
+  *✘* ${prefix}coffecup
+  *✘* ${prefix}butterfly
+  *✘* ${prefix}harrypotter
+  *✘* ${prefix}retrolol
   `
 }
 
 exports.ephotomenu = (prefix) => {
 	return`
   *EPHOTO MENU*
-  *≻* ${prefix}ffcover
-  *≻* ${prefix}crossfire
-  *≻* ${prefix}galaxy
-  *≻* ${prefix}glass
-  *≻* ${prefix}neon
-  *≻* ${prefix}beach
-  *≻* ${prefix}blackpink
-  *≻* ${prefix}igcertificate
-  *≻* ${prefix}ytcertificate
+  *✘* ${prefix}ffcover
+  *✘* ${prefix}crossfire
+  *✘* ${prefix}galaxy
+  *✘* ${prefix}glass
+  *✘* ${prefix}neon
+  *✘* ${prefix}beach
+  *✘* ${prefix}blackpink
+  *✘* ${prefix}igcertificate
+  *✘* ${prefix}ytcertificate
   `
 }
 
 exports.funmenu = (prefix) => {
 	return`
   *GAME & FUN MENU*
-  *≻* ${prefix}simih
-  *≻* ${prefix}bagaimanakah
-  *≻* ${prefix}kapankah
-  *≻* ${prefix}apakah
-  *≻* ${prefix}bisakah
-  *≻* ${prefix}rate
-  *≻* ${prefix}wangy
-  *≻* ${prefix}gantengcek
-  *≻* ${prefix}cekganteng
-  *≻* ${prefix}cantikcek
-  *≻* ${prefix}cekcantik
-  *≻* ${prefix}sangecek
-  *≻* ${prefix}ceksange
-  *≻* ${prefix}gaycek
-  *≻* ${prefix}cekgay
-  *≻* ${prefix}lesbicek
-  *≻* ${prefix}halah
-  *≻* ${prefix}hilih
-  *≻* ${prefix}huluh
-  *≻* ${prefix}heleh
-  *≻* ${prefix}holoh
-  *≻* ${prefix}jadian
-  *≻* ${prefix}jodohku
-  *≻* ${prefix}tictactoe
-  *≻* ${prefix}delttt
-  *≻* ${prefix}family100
-  *≻* ${prefix}tebak
-  *≻* ${prefix}math
-  *≻* ${prefix}suitpvp [@tag]
+  *✘* ${prefix}simih
+  *✘* ${prefix}bagaimanakah
+  *✘* ${prefix}kapankah
+  *✘* ${prefix}apakah
+  *✘* ${prefix}bisakah
+  *✘* ${prefix}rate
+  *✘* ${prefix}wangy
+  *✘* ${prefix}gantengcek
+  *✘* ${prefix}cekganteng
+  *✘* ${prefix}cantikcek
+  *✘* ${prefix}cekcantik
+  *✘* ${prefix}sangecek
+  *✘* ${prefix}ceksange
+  *✘* ${prefix}gaycek
+  *✘* ${prefix}cekgay
+  *✘* ${prefix}lesbicek
+  *✘* ${prefix}halah
+  *✘* ${prefix}hilih
+  *✘* ${prefix}huluh
+  *✘* ${prefix}heleh
+  *✘* ${prefix}holoh
+  *✘* ${prefix}jadian
+  *✘* ${prefix}jodohku
+  *✘* ${prefix}tictactoe
+  *✘* ${prefix}delttt
+  *✘* ${prefix}family100
+  *✘* ${prefix}tebak [option]
+  *✘* ${prefix}math [mode]
+  *✘* ${prefix}suitpvp [@tag]
   `
 }
 
 exports.primbonmenu = (prefix) => {
 	return`
   *PRIMBON MENU*
-  *≻* ${prefix}nomorhoki
-  *≻* ${prefix}artimimpi
-  *≻* ${prefix}artinama
-  *≻* ${prefix}ramaljodoh
-  *≻* ${prefix}ramaljodohbali
-  *≻* ${prefix}suamiistri
-  *≻* ${prefix}ramalcinta
-  *≻* ${prefix}cocoknama
-  *≻* ${prefix}pasangan
-  *≻* ${prefix}jadiannikah
-  *≻* ${prefix}sifatusaha
-  *≻* ${prefix}rezeki
-  *≻* ${prefix}pekerjaan
-  *≻* ${prefix}nasib
-  *≻* ${prefix}penyakit
-  *≻* ${prefix}tarot
-  *≻* ${prefix}fengshui
-  *≻* ${prefix}haribaik
-  *≻* ${prefix}harisangar
-  *≻* ${prefix}harisial
-  *≻* ${prefix}nagahari
-  *≻* ${prefix}arahrezeki
-  *≻* ${prefix}peruntungan
-  *≻* ${prefix}weton
-  *≻* ${prefix}karakter
-  *≻* ${prefix}keberuntungan
-  *≻* ${prefix}memancing
-  *≻* ${prefix}masasubur
-  *≻* ${prefix}zodiak
-  *≻* ${prefix}shio
+  *✘* ${prefix}nomorhoki
+  *✘* ${prefix}artimimpi
+  *✘* ${prefix}artinama
+  *✘* ${prefix}ramaljodoh
+  *✘* ${prefix}ramaljodohbali
+  *✘* ${prefix}suamiistri
+  *✘* ${prefix}ramalcinta
+  *✘* ${prefix}cocoknama
+  *✘* ${prefix}pasangan
+  *✘* ${prefix}jadiannikah
+  *✘* ${prefix}sifatusaha
+  *✘* ${prefix}rezeki
+  *✘* ${prefix}pekerjaan
+  *✘* ${prefix}nasib
+  *✘* ${prefix}penyakit
+  *✘* ${prefix}tarot
+  *✘* ${prefix}fengshui
+  *✘* ${prefix}haribaik
+  *✘* ${prefix}harisangar
+  *✘* ${prefix}harisial
+  *✘* ${prefix}nagahari
+  *✘* ${prefix}arahrezeki
+  *✘* ${prefix}peruntungan
+  *✘* ${prefix}weton
+  *✘* ${prefix}karakter
+  *✘* ${prefix}keberuntungan
+  *✘* ${prefix}memancing
+  *✘* ${prefix}masasubur
+  *✘* ${prefix}zodiak
+  *✘* ${prefix}shio
   `
 }
 
@@ -772,53 +772,57 @@ exports.cerpenmenu = (prefix) => {
   *✘* ${prefix}cerpen bahasa sunda
   *✘* ${prefix}cerpen budaya
   *✘* ${prefix}cerpen cinta
-  *≻* ${prefix}cerpen cinta islami
-  *≻* ${prefix}cerpen cinta pertama
-  *≻* ${prefix}cerpen cinta romantis
-  *≻* ${prefix}cerpen cinta sedih
-  *≻* ${prefix}cerpen cinta segitiga
-  *≻* ${prefix}cerpen cinta sejati
-  *≻* ${prefix}cerpen galau
-  *≻* ${prefix}cerpen gokil
-  *≻* ${prefix}cerpen inspiratif
-  *≻* ${prefix}cerpen jepang
-  *≻* ${prefix}cerpen kehidupan
-  *≻* ${prefix}cerpen keluarga
-  *≻* ${prefix}cerpen kisah nyata
-  *≻* ${prefix}cerpen korea
-  *≻* ${prefix}cerpen kristen
-  *≻* ${prefix}cerpen liburan
-  *≻* ${prefix}cerpen lingkungan
-  *≻* ${prefix}cerpen lucu
-  *≻* ${prefix}cerpen malaysia
-  *≻* ${prefix}cerpen mengharukan
-  *≻* ${prefix}cerpen misteri
-  *≻* ${prefix}cerpen motivasi
-  *≻* ${prefix}cerpen nasihat
-  *≻* ${prefix}cerpen nasionalisme
-  *≻* ${prefix}cerpen olahraga
-  *≻* ${prefix}cerpen patah hati
-  *≻* ${prefix}cerpen penantian
-  *≻* ${prefix}cerpen pendidikan
-  *≻* ${prefix}cerpen pengalaman pribadi
-  *≻* ${prefix}cerpen pengorbanan
-  *≻* ${prefix}cerpen penyesalan
-  *≻* ${prefix}cerpen perjuangan
-  *≻* ${prefix}cerpen perpisahan
-  *≻* ${prefix}cerpen persahabatan
-  *≻* ${prefix}cerpen petualangan
-  *≻* ${prefix}cerpen ramadhan
-  *≻* ${prefix}cerpen remaja
-  *≻* ${prefix}cerpen renungan
-  *≻* ${prefix}cerpen rindu
-  *≻* ${prefix}cerpen rohani
-  *≻* ${prefix}cerpen romantis
-  *≻* ${prefix}cerpen sastra
-  *≻* ${prefix}cerpen sedih
-  *≻* ${prefix}cerpen sejarah
-  *≻* ${prefix}cerpen slice of life
-  *≻* ${prefix}cerpen terjemahan
-  *≻* ${prefix}cerpen thriller
+  *✘* ${prefix}cerpen cinta islami
+  *✘* ${prefix}cerpen cinta pertama
+  *✘* ${prefix}cerpen cinta romantis
+  *✘* ${prefix}cerpen cinta sedih
+  *✘* ${prefix}cerpen cinta segitiga
+  *✘* ${prefix}cerpen cinta sejati
+  *✘* ${prefix}cerpen galau
+  *✘* ${prefix}cerpen gokil
+  *✘* ${prefix}cerpen inspiratif
+  *✘* ${prefix}cerpen jepang
+  *✘* ${prefix}cerpen kehidupan
+  *✘* ${prefix}cerpen keluarga
+  *✘* ${prefix}cerpen kisah nyata
+  *✘* ${prefix}cerpen korea
+  *✘* ${prefix}cerpen kristen
+  *✘* ${prefix}cerpen liburan
+  *✘* ${prefix}cerpen lingkungan
+  *✘* ${prefix}cerpen lucu
+  *✘* ${prefix}cerpen malaysia
+  *✘* ${prefix}cerpen mengharukan
+  *✘* ${prefix}cerpen misteri
+  *✘* ${prefix}cerpen motivasi
+  *✘* ${prefix}cerpen nasihat
+  *✘* ${prefix}cerpen nasionalisme
+  *✘* ${prefix}cerpen olahraga
+  *✘* ${prefix}cerpen patah hati
+  *✘* ${prefix}cerpen penantian
+  *✘* ${prefix}cerpen pendidikan
+  *✘* ${prefix}cerpen pengalaman pribadi
+  *✘* ${prefix}cerpen pengorbanan
+  *✘* ${prefix}cerpen penyesalan
+  *✘* ${prefix}cerpen perjuangan
+  *✘* ${prefix}cerpen perpisahan
+  *✘* ${prefix}cerpen persahabatan
+  *✘* ${prefix}cerpen petualangan
+  *✘* ${prefix}cerpen ramadhan
+  *✘* ${prefix}cerpen remaja
+  *✘* ${prefix}cerpen renungan
+  *✘* ${prefix}cerpen rindu
+  *✘* ${prefix}cerpen rohani
+  *✘* ${prefix}cerpen romantis
+  *✘* ${prefix}cerpen sastra
+  *✘* ${prefix}cerpen sedih
+  *✘* ${prefix}cerpen sejarah
+  *✘* ${prefix}cerpen slice of life
+  *✘* ${prefix}cerpen terjemahan
+  *✘* ${prefix}cerpen thriller
+  `
+}
+
+
 `
 }
 
@@ -859,7 +863,7 @@ exports.informationmenu = (prefix) => {
   *✘* ${prefix}antara-news 
   *✘* ${prefix}cnn-news 
   *✘* ${prefix}fajar-news
-`
+  `
 }
 
 exports.mainmenu = (prefix) => {
