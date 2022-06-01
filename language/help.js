@@ -7,7 +7,7 @@
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
-	return`[🌹WELCOME ROSE-USERBOT🌹]
+	return`[WELCOME ROSE-USERBOT]
 
 ┌── 「 *ALIVE USERBOT* 」──
 ├ 🫂 *Name* : Userbot 
@@ -106,89 +106,89 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}patrick
   
   *RANDOM MENU*
-  *≻* ${prefix}coffe
-  *≻* ${prefix}quotesanime
-  *≻* ${prefix}couple
-  *≻* ${prefix}darkjokes
+  *✘* ${prefix}coffe
+  *✘* ${prefix}quotesanime
+  *✘* ${prefix}couple
+  *✘* ${prefix}darkjokes
   
   *RANDOM ANIME MENU*
-  *≻* ${prefix}loli
-  *≻* ${prefix}neko
-  *≻* ${prefix}waifu
-  *≻* ${prefix}shinobu
-  *≻* ${prefix}megumin
-  *≻* ${prefix}bully
-  *≻* ${prefix}cuddle
-  *≻* ${prefix}cry
-  *≻* ${prefix}hug
-  *≻* ${prefix}awoo
-  *≻* ${prefix}kiss
-  *≻* ${prefix}lick
-  *≻* ${prefix}pat
-  *≻* ${prefix}smug
-  *≻* ${prefix}bonk
-  *≻* ${prefix}yeet
-  *≻* ${prefix}blush
-  *≻* ${prefix}smile
-  *≻* ${prefix}wave
-  *≻* ${prefix}highfive
-  *≻* ${prefix}handhold
-  *≻* ${prefix}nom
-  *≻* ${prefix}bite
-  *≻* ${prefix}glomp
-  *≻* ${prefix}slap
-  *≻* ${prefix}kill
-  *≻* ${prefix}happy
-  *≻* ${prefix}wink
-  *≻* ${prefix}poke
-  *≻* ${prefix}dance
-  *≻* ${prefix}cringe
-  *≻* ${prefix}anime
-  *≻* ${prefix}waifu
-  *≻* ${prefix}husbu
-  *≻* ${prefix}neko
-  *≻* ${prefix}shinobu
-  *≻* ${prefix}waifus 
-  *≻* ${prefix}nekos 
-  *≻* ${prefix}trap 
-  *≻* ${prefix}blowjob 
+  *✘* ${prefix}loli
+  *✘* ${prefix}neko
+  *✘* ${prefix}waifu
+  *✘* ${prefix}shinobu
+  *✘* ${prefix}megumin
+  *✘* ${prefix}bully
+  *✘* ${prefix}cuddle
+  *✘* ${prefix}cry
+  *✘* ${prefix}hug
+  *✘* ${prefix}awoo
+  *✘* ${prefix}kiss
+  *✘* ${prefix}lick
+  *✘* ${prefix}pat
+  *✘* ${prefix}smug
+  *✘* ${prefix}bonk
+  *✘* ${prefix}yeet
+  *✘* ${prefix}blush
+  *✘* ${prefix}smile
+  *✘* ${prefix}wave
+  *✘* ${prefix}highfive
+  *✘* ${prefix}handhold
+  *✘* ${prefix}nom
+  *✘* ${prefix}bite
+  *✘* ${prefix}glomp
+  *✘* ${prefix}slap
+  *✘* ${prefix}kill
+  *✘* ${prefix}happy
+  *✘* ${prefix}wink
+  *✘* ${prefix}poke
+  *✘* ${prefix}dance
+  *✘* ${prefix}cringe
+  *✘* ${prefix}anime
+  *✘* ${prefix}waifu
+  *✘* ${prefix}husbu
+  *✘* ${prefix}neko
+  *✘* ${prefix}shinobu
+  *✘* ${prefix}waifus 
+  *✘* ${prefix}nekos 
+  *✘* ${prefix}trap 
+  *✘* ${prefix}blowjob 
   
   *TEXT PRO MENU*
-  *≻* ${prefix}3dchristmas
-  *≻* ${prefix}3ddeepsea
-  *≻* ${prefix}americanflag
-  *≻* ${prefix}3dscifi
-  *≻* ${prefix}3drainbow
-  *≻* ${prefix}3dwaterpipe
-  *≻* ${prefix}halloweenskeleton
-  *≻* ${prefix}sketch
-  *≻* ${prefix}bluecircuit
-  *≻* ${prefix}space
-  *≻* ${prefix}metallic
-  *≻* ${prefix}fiction
-  *≻* ${prefix}greenhorror
-  *≻* ${prefix}transformer
-  *≻* ${prefix}berry
-  *≻* ${prefix}thunder
-  *≻* ${prefix}magma
-  *≻* ${prefix}3dcrackedstone
-  *≻* ${prefix}3dneonlight
-  *≻* ${prefix}impressiveglitch
-  *≻* ${prefix}naturalleaves
-  *≻* ${prefix}fireworksparkle
-  *≻* ${prefix}matrix
-  *≻* ${prefix}dropwater
-  *≻* ${prefix}harrypotter
-  *≻* ${prefix}foggywindow
-  *≻* ${prefix}neondevils
-  *≻* ${prefix}christmasholiday
-  *≻* ${prefix}3dgradient
-  *≻* ${prefix}blackpink
-  *≻* ${prefix}gluetext
+  *✘* ${prefix}3dchristmas
+  *✘* ${prefix}3ddeepsea
+  *✘* ${prefix}americanflag
+  *✘* ${prefix}3dscifi
+  *✘* ${prefix}3drainbow
+  *✘* ${prefix}3dwaterpipe
+  *✘* ${prefix}halloweenskeleton
+  *✘* ${prefix}sketch
+  *✘* ${prefix}bluecircuit
+  *✘* ${prefix}space
+  *✘* ${prefix}metallic
+  *✘* ${prefix}fiction
+  *✘* ${prefix}greenhorror
+  *✘* ${prefix}transformer
+  *✘* ${prefix}berry
+  *✘* ${prefix}thunder
+  *✘* ${prefix}magma
+  *✘* ${prefix}3dcrackedstone
+  *✘* ${prefix}3dneonlight
+  *✘* ${prefix}impressiveglitch
+  *✘* ${prefix}naturalleaves
+  *✘* ${prefix}fireworksparkle
+  *✘* ${prefix}matrix
+  *✘* ${prefix}dropwater
+  *✘* ${prefix}harrypotter
+  *✘* ${prefix}foggywindow
+  *✘* ${prefix}neondevils
+  *✘* ${prefix}christmasholiday
+  *✘* ${prefix}3dgradient
+  *✘* ${prefix}blackpink
+  *✘* ${prefix}gluetext
   
   *PHOTO OXY MENU*
-  *≻* ${prefix}shadow
-  *≻* ${prefix}romantic
+  *✘* ${prefix}shadow
+  *✘* ${prefix}romantic
   *≻* ${prefix}smoke
   *≻* ${prefix}burnpapper
   *≻* ${prefix}naruto
@@ -275,144 +275,144 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}shio
 
   *CERPEN MENU*
-  *≻* ${prefix}cerpen anak
-  *≻* ${prefix}cerpen bahasa daerah
-  *≻* ${prefix}cerpen bahasa inggris
-  *≻* ${prefix}cerpen bahasa jawa
-  *≻* ${prefix}cerpen bahasa sunda
-  *≻* ${prefix}cerpen budaya
-  *≻* ${prefix}cerpen cinta
-  *≻* ${prefix}cerpen cinta islami
-  *≻* ${prefix}cerpen cinta pertama
-  *≻* ${prefix}cerpen cinta romantis
-  *≻* ${prefix}cerpen cinta sedih
-  *≻* ${prefix}cerpen cinta segitiga
-  *≻* ${prefix}cerpen cinta sejati
-  *≻* ${prefix}cerpen galau
-  *≻* ${prefix}cerpen gokil
-  *≻* ${prefix}cerpen inspiratif
-  *≻* ${prefix}cerpen jepang
-  *≻* ${prefix}cerpen kehidupan
-  *≻* ${prefix}cerpen keluarga
-  *≻* ${prefix}cerpen kisah nyata
-  *≻* ${prefix}cerpen korea
-  *≻* ${prefix}cerpen kristen
-  *≻* ${prefix}cerpen liburan
-  *≻* ${prefix}cerpen lingkungan
-  *≻* ${prefix}cerpen lucu
-  *≻* ${prefix}cerpen malaysia
-  *≻* ${prefix}cerpen mengharukan
-  *≻* ${prefix}cerpen misteri
-  *≻* ${prefix}cerpen motivasi
-  *≻* ${prefix}cerpen nasihat
-  *≻* ${prefix}cerpen nasionalisme
-  *≻* ${prefix}cerpen olahraga
-  *≻* ${prefix}cerpen patah hati
-  *≻* ${prefix}cerpen penantian
-  *≻* ${prefix}cerpen pendidikan
-  *≻* ${prefix}cerpen pengalaman pribadi
-  *≻* ${prefix}cerpen pengorbanan
-  *≻* ${prefix}cerpen penyesalan
-  *≻* ${prefix}cerpen perjuangan
-  *≻* ${prefix}cerpen perpisahan
-  *≻* ${prefix}cerpen persahabatan
-  *≻* ${prefix}cerpen petualangan
-  *≻* ${prefix}cerpen ramadhan
-  *≻* ${prefix}cerpen remaja
-  *≻* ${prefix}cerpen renungan
-  *≻* ${prefix}cerpen rindu
-  *≻* ${prefix}cerpen rohani
-  *≻* ${prefix}cerpen romantis
-  *≻* ${prefix}cerpen sastra
-  *≻* ${prefix}cerpen sedih
-  *≻* ${prefix}cerpen sejarah
-  *≻* ${prefix}cerpen slice of life
-  *≻* ${prefix}cerpen terjemahan
-  *≻* ${prefix}cerpen thriller
+  *✘* ${prefix}cerpen anak
+  *✘* ${prefix}cerpen bahasa daerah
+  *✘* ${prefix}cerpen bahasa inggris
+  *✘* ${prefix}cerpen bahasa jawa
+  *✘* ${prefix}cerpen bahasa sunda
+  *✘* ${prefix}cerpen budaya
+  *✘* ${prefix}cerpen cinta
+  *✘* ${prefix}cerpen cinta islami
+  *✘* ${prefix}cerpen cinta pertama
+  *✘* ${prefix}cerpen cinta romantis
+  *✘* ${prefix}cerpen cinta sedih
+  *✘* ${prefix}cerpen cinta segitiga
+  *✘* ${prefix}cerpen cinta sejati
+  *✘* ${prefix}cerpen galau
+  *✘* ${prefix}cerpen gokil
+  *✘* ${prefix}cerpen inspiratif
+  *✘* ${prefix}cerpen jepang
+  *✘* ${prefix}cerpen kehidupan
+  *✘* ${prefix}cerpen keluarga
+  *✘* ${prefix}cerpen kisah nyata
+  *✘* ${prefix}cerpen korea
+  *✘* ${prefix}cerpen kristen
+  *✘* ${prefix}cerpen liburan
+  *✘* ${prefix}cerpen lingkungan
+  *✘* ${prefix}cerpen lucu
+  *✘* ${prefix}cerpen malaysia
+  *✘* ${prefix}cerpen mengharukan
+  *✘* ${prefix}cerpen misteri
+  *✘* ${prefix}cerpen motivasi
+  *✘* ${prefix}cerpen nasihat
+  *✘* ${prefix}cerpen nasionalisme
+  *✘* ${prefix}cerpen olahraga
+  *✘* ${prefix}cerpen patah hati
+  *✘* ${prefix}cerpen penantian
+  *✘* ${prefix}cerpen pendidikan
+  *✘* ${prefix}cerpen pengalaman pribadi
+  *✘* ${prefix}cerpen pengorbanan
+  *✘* ${prefix}cerpen penyesalan
+  *✘* ${prefix}cerpen perjuangan
+  *✘* ${prefix}cerpen perpisahan
+  *✘* ${prefix}cerpen persahabatan
+  *✘* ${prefix}cerpen petualangan
+  *✘* ${prefix}cerpen ramadhan
+  *✘* ${prefix}cerpen remaja
+  *✘* ${prefix}cerpen renungan
+  *✘* ${prefix}cerpen rindu
+  *✘* ${prefix}cerpen rohani
+  *✘* ${prefix}cerpen romantis
+  *✘* ${prefix}cerpen sastra
+  *✘* ${prefix}cerpen sedih
+  *✘* ${prefix}cerpen sejarah
+  *✘* ${prefix}cerpen slice of life
+  *✘* ${prefix}cerpen terjemahan
+  *✘* ${prefix}cerpen thriller
   
   *CONVERT MENU*
-  *≻* ${prefix}toimage
-  *≻* ${prefix}removebg
-  *≻* ${prefix}sticker
-  *≻* ${prefix}emojimix
-  *≻* ${prefix}tovideo
-  *≻* ${prefix}togif
-  *≻* ${prefix}tourl
-  *≻* ${prefix}tovn
-  *≻* ${prefix}tomp3
-  *≻* ${prefix}toaudio
-  *≻* ${prefix}ebinary
-  *≻* ${prefix}dbinary
-  *≻* ${prefix}styletext
-  *≻* ${prefix}smeme
+  *✘* ${prefix}toimage
+  *✘* ${prefix}removebg
+  *✘* ${prefix}sticker
+  *✘* ${prefix}emojimix
+  *✘* ${prefix}tovideo
+  *✘* ${prefix}togif
+  *✘* ${prefix}tourl
+  *✘* ${prefix}tovn
+  *✘* ${prefix}tomp3
+  *✘* ${prefix}toaudio
+  *✘* ${prefix}ebinary
+  *✘* ${prefix}dbinary
+  *✘* ${prefix}styletext
+  *✘* ${prefix}smeme
 
   *INFORMATION MENU*
-  *≻* ${prefix}merdeka-news 
-  *≻* ${prefix}kontan-news 
-  *≻* ${prefix}cnbc-news 
-  *≻* ${prefix}tribun-news 
-  *≻* ${prefix}indozone-news 
-  *≻* ${prefix}kompas-news 
-  *≻* ${prefix}detik-news 
-  *≻* ${prefix}daily-news 
-  *≻* ${prefix}inews-news 
-  *≻* ${prefix}okezone-news 
-  *≻* ${prefix}sindo-news 
-  *≻* ${prefix}tempo-news 
-  *≻* ${prefix}antara-news 
-  *≻* ${prefix}cnn-news 
-  *≻* ${prefix}fajar-news 
+  *✘* ${prefix}merdeka-news 
+  *✘* ${prefix}kontan-news 
+  *✘* ${prefix}cnbc-news 
+  *✘* ${prefix}tribun-news 
+  *✘* ${prefix}indozone-news 
+  *✘* ${prefix}kompas-news 
+  *✘* ${prefix}detik-news 
+  *✘* ${prefix}daily-news 
+  *✘* ${prefix}inews-news 
+  *✘* ${prefix}okezone-news 
+  *✘* ${prefix}sindo-news 
+  *✘* ${prefix}tempo-news 
+  *✘* ${prefix}antara-news 
+  *✘* ${prefix}cnn-news 
+  *✘* ${prefix}fajar-news 
   
   *MAIN MENU*
-  *≻* ${prefix}script
-  *≻* ${prefix}ping
-  *≻* ${prefix}runtime
-  *≻* ${prefix}speed
-  *≻* ${prefix}owner
-  *≻* ${prefix}menu
-  *≻* ${prefix}delete
-  *≻* ${prefix}infochat
-  *≻* ${prefix}quoted
-  *≻* ${prefix}listpc
-  *≻* ${prefix}listgc
-  *≻* ${prefix}listonline
+  *✘* ${prefix}script
+  *✘* ${prefix}ping
+  *✘* ${prefix}runtime
+  *✘* ${prefix}speed
+  *✘* ${prefix}owner
+  *✘* ${prefix}menu
+  *✘* ${prefix}delete
+  *✘* ${prefix}infochat
+  *✘* ${prefix}quoted
+  *✘* ${prefix}listpc
+  *✘* ${prefix}listgc
+  *✘* ${prefix}listonline
   
   *DATABASE MENU*
-  *≻* ${prefix}setcmd
-  *≻* ${prefix}listcmd
-  *≻* ${prefix}delcmd
-  *≻* ${prefix}lockcmd
-  *≻* ${prefix}addmsg
-  *≻* ${prefix}listmsg
-  *≻* ${prefix}getmsg
-  *≻* ${prefix}delmsg
+  *✘* ${prefix}setcmd
+  *✘* ${prefix}listcmd
+  *✘* ${prefix}delcmd
+  *✘* ${prefix}lockcmd
+  *✘* ${prefix}addmsg
+  *✘* ${prefix}listmsg
+  *✘* ${prefix}getmsg
+  *✘* ${prefix}delmsg
   
   *ANONYMOUS MENU*
-  *≻* ${prefix}anonymous
-  *≻* ${prefix}start
-  *≻* ${prefix}next
-  *≻* ${prefix}keluar
-  *≻* ${prefix}sendkontak
+  *✘* ${prefix}anonymous
+  *✘* ${prefix}start
+  *✘* ${prefix}next
+  *✘* ${prefix}keluar
+  *✘* ${prefix}sendkontak
   
   *ISLAMIC MENU*
-  *≻* ${prefix}iqra
-  *≻* ${prefix}hadist
-  *≻* ${prefix}alquran
-  *≻* ${prefix}juzamma
-  *≻* ${prefix}tafsirsurah
+  *✘* ${prefix}iqra
+  *✘* ${prefix}hadist
+  *✘* ${prefix}alquran
+  *✘* ${prefix}juzamma
+  *✘* ${prefix}tafsirsurah
   
   *VOICE CHANGER*
-  *≻* ${prefix}bass
-  *≻* ${prefix}blown
-  *≻* ${prefix}deep
-  *≻* ${prefix}earrape
-  *≻* ${prefix}fast
-  *≻* ${prefix}fat
-  *≻* ${prefix}nightcore
-  *≻* ${prefix}reverse
-  *≻* ${prefix}robot
-  *≻* ${prefix}slow
-  *≻* ${prefix}tupai
+  *✘* ${prefix}bass
+  *✘* ${prefix}blown
+  *✘* ${prefix}deep
+  *✘* ${prefix}earrape
+  *✘* ${prefix}fast
+  *✘* ${prefix}fat
+  *✘* ${prefix}nightcore
+  *✘* ${prefix}reverse
+  *✘* ${prefix}robot
+  *✘* ${prefix}slow
+  *✘* ${prefix}tupai
   
   *OWNER MENU*
   *✘* ${prefix}react [emoji]
