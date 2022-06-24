@@ -1,6 +1,5 @@
 /*
 › Create By @Sendi
-› Base Ori @DikaArdnt
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 */
