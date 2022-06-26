@@ -1,8 +1,5 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
-› Kalau mau tambahin fitur di index.js
-› Edit text menu di file language › help.js
+› Create By @pikyus1 / Sendi
 */
 
 //gausah di apa² in!
@@ -22,9 +19,10 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285894831504','6285894831504','6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6285894831504' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285894831504 //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.prem = ['6285894831504']'
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Rose-Userbot' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -83,6 +81,7 @@ global.sp = '🌹'
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
 success: '「SUCCES」',
+prem: '「🛡️ TERSEDIA HANYA UNTUK PENGGUNA PREMIUM」',
 admin: '「FITUR INI HANYA KHUSUS ADMIN GROUP」',
 botAdmin: '「BOT HARUS MENJADI ADMIN TERLEBIH DAHULU」',
 owner: '「FITUR INI KHUSUS OWNER SAJA」',
