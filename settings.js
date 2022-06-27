@@ -22,7 +22,7 @@ global.APIKeys = {
 global.owner = ['6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.ownernomer = '6285894831504 //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.prem = ['6285894831504']'
+global.prem = ['6285313937918']'
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Rose-Userbot' //ubah jadi nama mu, note tanda ' gausah di hapus!
