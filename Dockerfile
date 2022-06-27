@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "riy.js"]
+CMD ["node", "sendi.js"]
