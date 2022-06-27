@@ -2,10 +2,10 @@
   "name": "Rose-UserbotX",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
-  "main": "riy.js",
+  "main": "sendi.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node riy.js"
+    "start": "node sendi.js"
   },
   "keywords": [
     "termux",
