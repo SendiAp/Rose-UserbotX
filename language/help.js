@@ -22,6 +22,7 @@ Bot Mati? Langsung Hubungi Owner Secepatnya.
 *Tutorial & Penjelasanya:*
 Tiktok: https://vt.tiktok.com/ZSdKCd1mj/
 WhatsApp: wa.me/6285894831504
+`
 }
 
 //—————「 Welcome 」—————//
