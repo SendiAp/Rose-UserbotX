@@ -35,6 +35,7 @@ global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/ndiap04'
 global.mygc = 'https://wa.me/qr/L44VK7PMOIMOD1'
 global.myweb = 'https://chat.whatsapp.com/KJZWBMHRy9B7Jo2uzTZvgV'
+global.menu = 'https://bit.ly/3NBloHB'
 global.email = 'snktlg4@gmail.com'
 global.region = 'indonesia'
 
