@@ -40,13 +40,13 @@ exports.leave = () => {
 //—————「 Premium 」—————//
 exports.roseprem  = (ownernomer) => {
 	return`
-—————「 *PREMIUM BOT* 」—————
+———「 *PREMIUM BOT* 」———
 
 Sepertinya Kamu Belum Menggunakan Premium,🥲
 Gunakan Premium Sekarang, Dan Dapatkan Kelebihan
 Saat Kamu Menggunakan Rose Userbot.🥳
 
-———「 *List Harga* 」———
+———「 *LIST HARGA* 」———
 
 Rp.5,000/Minggu | ~Rp.10,000~ 🌟 [99%]
 Rp.10,000/2Minggu | ~Rp.20,000~ 🌟 [99%]
@@ -56,11 +56,12 @@ Pembelian Hanya Dapat Diproses Setiap Hari Senin.
 *Contoh:* Kamu Beli Dihari Rabu , Kamu Hanya Dapat Gunakan
 Premium Bot Ini Dihari Senin.
 
-———「 *Kelebihan* 」———
+———「 *KELEBIHAN PREMIUM* 」———
 
 🫂 #grup [Dapat Menutup Grup Dengan Perintah Yang Disediakan]
 🛡️ #antilink [Grub Kamu Aman Dari Link]
 💬 #smeme [Membuat Sticker Dengan Teks]
+🎧 #sound [Mendownload Lagu Dari YouTube]
 🎧 #ytmp3 [Mendownload Lagu Dengan Link Dari YouTube]
 🎥 #ytmp4 [Mendownload Video Dengan Link YouTube]
 📂 #getmusic [Mendownload Lagu Dengan Reply Link Nya]
@@ -70,14 +71,14 @@ Premium Bot Ini Dihari Senin.
 🎊 #listgc [Dapat Melihat Grub Dirose Userbot]
 💬 #listpc [Dapat Melihat Chat Rose userbot]
 💥 #listonline [Dapat Melihat Online Di Rose userbot]
+Free:
+🔥 No Limit.
+🔥 Bot Aktif 24Jam.
 
 ———「 *Pembayaran* 」———
 
 *Dana:* 085894831504 [Dewi Hendriani]
 
-Mau Lewat Bank?
-*Contact person Owner* :
-wa.me/${ownernomer}
-
+Mau Lewat Bank? Silahkan Klik Beli Sekarang 🎊
 `
 }
