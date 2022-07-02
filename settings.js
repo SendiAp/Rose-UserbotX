@@ -57,6 +57,7 @@ free: 15,
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
 global.thumb = fs.readFileSync('./image/roseteam.jpg')
+global.discount = fs.readFileSync('./image/discount.jpg')
 /*global.veloriy = fs.readFileSync('./image/'rose.jpeg)*/
 
 //—————「 Set Image Welcome 」—————//
@@ -91,7 +92,7 @@ private: '「FITUR HANYA DIGUNAKAN DIPRIVATE CHAT」',
 bot: '「FITUR KHUSUS PENGGUNA NOMOR BOT」',
 wait: '「SEDANG DIPROSES...」',
 error: '「❌ TERJADI KESALAHAN , SILAHKAN LAPORKAN OWNER」',
-endLimit: '「LIMIT HARIAN TELAH HABIS , LIMIT AKAN TERISI SETIAP 12JAM」',
+endLimit: '「LIMIT HARIAN TELAH HABIS , LIMIT AKAN TERISI SETIAP SENIN」',
 }
 
 //—————「 Batas Akhir 」—————//
