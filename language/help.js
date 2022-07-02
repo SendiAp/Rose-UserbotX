@@ -8,13 +8,13 @@
 exports.menu = (botname, pushname, salam) => {
 	return`*Hai ${pushname}!*
 
-*Rose-Userbot* Adalah Userbot Yang Akan Membantu Anda
-Mengelola Grub Anda Dan Bersenang Senang Lainnya. 🎊
+*Rose-Userbot* Adalah Bot Yang Dibuat Dengan Beberapa Ftur
+Yang Canggih Dan Dapat Digunakan Buat Kalian. 🎊
 
 Kamu Bisa Lihat List Menunya Ditombol Bawah Ya🥰,Jangan 
 Spam Dan Telpon Ya , Bot Akan Otomatis Ngeblokir.🤖
 
-Jika Bot Ingin Terus Aktif Kamu Bisa Berdosa Atau
+Jika Bot Ingin Terus Aktif Kamu Bisa Berdonasi Atau
 Melakukan Pembelian Premium , Dan Nikmatin Kelebihannya.🥳
 
 Bot Mati? Langsung Hubungi Owner Secepatnya.
@@ -37,31 +37,47 @@ exports.leave = () => {
 `
 }
 
-//—————「 Donasi 」—————//
-exports.donasi  = (ownernomer) => {
+//—————「 Premium 」—————//
+exports.roseprem  = (ownernomer) => {
 	return`
-—————「 *DONATE* 」—————
+—————「 *PREMIUM BOT* 」—————
 
-Terimakasih telah menggunakan bot ini👋
+Sepertinya Kamu Belum Menggunakan Premium,🥲
+Gunakan Premium Sekarang, Dan Dapatkan Kelebihan
+Saat Kamu Menggunakan Rose Userbot.🥳
 
-Anda tau betapa sulitnya membuat bot ini? 
-Agar bot tetap berjalan/bertahan donasikan seikhlasnya 
-Kami akan mengembangkan beberapa modules
-Lainnya..
+———「 *List Harga* 」———
 
-———「 *PEMBAYARAN* 」———
+Rp.5,000/Minggu | ~Rp.10,000~ 🌟 [99%]
+Rp.10,000/2Minggu | ~Rp.20,000~ 🌟 [99%]
+Rp.20,000/Sebulan | ~Rp.30,000~ 🌟 [99%]
 
-IM3 : 6285894831504
-Bank BCA : Chat Pribadi Owner
-Bank BRI : Chat Pribadi Owner
-Shopepay : Chat Pribadi Owner
+Pembelian Hanya Dapat Diproses Setiap Hari Senin.
+*Contoh:* Kamu Beli Dihari Rabu , Kamu Hanya Dapat Gunakan
+Premium Bot Ini Dihari Senin.
 
-  *Contact person Owner* :
-  wa.me/${ownernomer}
+———「 *Kelebihan* 」———
 
-———「 *INFORMASI* 」———
+🫂 #grup [Dapat Menutup Grup Dengan Perintah Yang Disediakan]
+🛡️ #antilink [Grub Kamu Aman Dari Link]
+💬 #smeme [Membuat Sticker Dengan Teks]
+🎧 #ytmp3 [Mendownload Lagu Dengan Link Dari YouTube]
+🎥 #ytmp4 [Mendownload Video Dengan Link YouTube]
+📂 #getmusic [Mendownload Lagu Dengan Reply Link Nya]
+🎤 #getvideo [Mendownload Video Dengan Reply Link Nya]
+🎙️ #tomp3 [Dapat Mengubah Video Menjadi MP3]
+🤭 #mute [Mute Bot Digrub Kamu]
+🎊 #listgc [Dapat Melihat Grub Dirose Userbot]
+💬 #listpc [Dapat Melihat Chat Rose userbot]
+💥 #listonline [Dapat Melihat Online Di Rose userbot]
 
-Jika Ada modules yang tidak bisa digunakan silahkan hubungi owner 
-kami akan menandai nya untuk sementara.
+———「 *Pembayaran* 」———
+
+*Dana:* 085894831504 [Dewi Hendriani]
+
+Mau Lewat Bank?
+*Contact person Owner* :
+wa.me/${ownernomer}
+
 `
 }
