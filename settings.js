@@ -22,7 +22,7 @@ global.APIKeys = {
 global.owner = ['6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.ownernomer = ['6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.prem = ['6285313937918']
+global.prem = ['6285313937918','6285894831504']
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Rose-Userbot' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -37,6 +37,7 @@ global.mygc = 'https://wa.me/qr/L44VK7PMOIMOD1'
 global.myweb = 'https://chat.whatsapp.com/KJZWBMHRy9B7Jo2uzTZvgV'
 global.menu = 'https://bit.ly/3NBloHB'
 global.email = 'snktlg4@gmail.com'
+global.nomerowner = 'http://wa.me/6285894831504'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
