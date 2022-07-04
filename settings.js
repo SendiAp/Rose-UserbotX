@@ -59,6 +59,7 @@ free: 15,
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
 global.thumb = fs.readFileSync('./image/roseteam.jpg')
 global.discount = fs.readFileSync('./image/discount.png')
+global.rosejpg = fs.readFileSync('./image/rose.jpeg')
 /*global.veloriy = fs.readFileSync('./image/'rose.jpeg)*/
 
 //—————「 Set Image Welcome 」—————//
