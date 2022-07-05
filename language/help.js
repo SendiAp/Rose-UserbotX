@@ -376,3 +376,5 @@ exports.listcmd  = (ownernomer) => {
  *✘* #robot [reply audio/vn]
  *✘* #slow [reply audio/vn]
  *✘* #tupai [reply audio/vn]
+`
+}
