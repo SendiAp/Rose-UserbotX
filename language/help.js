@@ -82,3 +82,297 @@ Free:
 Mau Lewat Bank? Silahkan Klik Beli Sekarang 🎊
 `
 }
+
+//—————「 List Command 」—————//
+exports.listcmd  = (ownernomer) => {
+	return`
+
+  [*GROUP MENU*] 🫂
+
+  *✘* #linkgroup
+  *✘* #ephemeral [option]
+  *✘* #setppgc
+  *✘* #setname 
+  *✘* #setdesc 
+  *✘* #group [option]
+  *✘* #editinfo [option]
+  *✘* #add @user
+  *✘* #kick @user
+  *✘* #hidetag 
+  *✘* #tagall [pesan]
+  *✘* #antilink [on/off]
+  *✘* #mute [on/off]
+  *✘* #promote @user
+  *✘* #demote @user
+  *✘* #vote [teks]
+  *✘* #devote
+  *✘* #upvote
+  *✘* #cekvote
+  *✘* #hapusvote
+
+  [*SEARCH MENU*] 🤳
+
+  *✘* #yts 
+  *✘* #google 
+  *✘* #gimage 
+  *✘* #pinterest 
+  *✘* #wikimedia 
+  *✘* #ytsearch 
+  *✘* #ringtone 
+  *✘* #character
+
+  [*TELEGRAM STICK MENU*] 🥰
+
+  *✘* #gurastick
+  *✘* #dogestick
+  *✘* #bucinstick
+  *✘* #patrick
+
+  [*RANDOM MENU*] 💬
+
+  *✘* #coffe
+  *✘* #quotesanime
+  *✘* #couple
+  *✘* #darkjokes
+
+  [*RANDOM ANIME MENU*] 🤡
+
+  *✘* #loli
+  *✘* #neko
+  *✘* #waifu
+  *✘* #shinobu
+  *✘* #megumin
+  *✘* #bully
+  *✘* #cuddle
+  *✘* #cry
+  *✘* #hug
+  *✘* #awoo
+  *✘* #kiss
+  *✘* #lick
+  *✘* #pat
+  *✘* #smug
+  *✘* #bonk
+  *✘* #yeet
+  *✘* #blush
+  *✘* #smile
+  *✘* #wave
+  *✘* #highfive
+  *✘* #handhold
+  *✘* #nom
+  *✘* #bite
+  *✘* #glomp
+  *✘* #slap
+  *✘* #kill
+  *✘* #happy
+  *✘* #wink
+  *✘* #poke
+  *✘* #dance
+  *✘* #cringe
+  *✘* #anime
+  *✘* #waifu
+  *✘* #husbu
+  *✘* #neko
+  *✘* #shinobu
+  *✘* ##waifus 
+  *✘* #nekos 
+  *✘* #trap 
+  *✘* #blowjob
+
+  [*GAME & FUN MENU*] 🎮
+
+  *✘* #simih
+  *✘* #bagaimanakah
+  *✘* #kapankah
+  *✘* #apakah
+  *✘* #bisakah
+  *✘* #rate
+  *✘* #wangy
+  *✘* #gantengcek
+  *✘* #cekganteng
+  *✘* #cantikcek
+  *✘* #cekcantik
+  *✘* #sangecek
+  *✘* #ceksange
+  *✘* #gaycek
+  *✘* #cekgay
+  *✘* #lesbicek
+  *✘* #halah
+  *✘* #hilih
+  *✘* #huluh
+  *✘* #heleh
+  *✘* #holoh
+  *✘* #jadian
+  *✘* #jodohku
+  *✘* #tictactoe
+  *✘* #delttt
+  *✘* #family100
+  *✘* #tebak [option]
+  *✘* #math [mode]
+  *✘* #suitpvp [@tag]
+
+  [*PRIMBON MENU*] 🎊
+
+  *✘* #nomorhoki
+  *✘* #artimimpi
+  *✘* #artinama
+  *✘* #ramaljodoh
+  *✘* #ramaljodohbali
+  *✘* #suamiistri
+  *✘* #ramalcinta
+  *✘* #cocoknama
+  *✘* #pasangan
+  *✘* #jadiannikah
+  *✘* #sifatusaha
+  *✘* #rezeki
+  *✘* #pekerjaan
+  *✘* #nasib
+  *✘* #penyakit
+  *✘* #tarot
+  *✘* #fengshui
+  *✘* #haribaik
+  *✘* #harisangar
+  *✘* #harisial
+  *✘* #nagahari
+  *✘* #arahrezeki
+  *✘* #peruntungan
+  *✘* #weton
+  *✘* #karakter
+  *✘* #keberuntungan
+  *✘* #memancing
+  *✘* #masasubur
+  *✘* #zodiak
+  *✘* #shio
+
+  [*CERPEN MENU*] 📃
+
+  *✘* #cerpen anak
+  *✘* #cerpen bahasa daerah
+  *✘* #cerpen bahasa inggris
+  *✘* #cerpen bahasa jawa
+  *✘* #cerpen bahasa sunda
+  *✘* #cerpen budaya
+  *✘* #cerpen cinta
+  *✘* #cerpen cinta islami
+  *✘* #cerpen cinta pertama
+  *✘* #cerpen cinta romantis
+  *✘* #cerpen cinta sedih
+  *✘* #cerpen cinta segitiga
+  *✘* #cerpen cinta sejati
+  *✘* #cerpen galau
+  *✘* #cerpen gokil
+  *✘* #cerpen inspiratif
+  *✘* #cerpen jepang
+  *✘* #cerpen kehidupan
+  *✘* #cerpen keluarga
+  *✘* #cerpen kisah nyata
+  *✘* #cerpen korea
+  *✘* #cerpen kristen
+  *✘* #cerpen liburan
+  *✘* #cerpen lingkungan
+  *✘* #cerpen lucu
+  *✘* #cerpen malaysia
+  *✘* #cerpen mengharukan
+  *✘* #cerpen misteri
+  *✘* #cerpen motivasi
+  *✘* #cerpen nasihat
+  *✘* #cerpen nasionalisme
+  *✘* #cerpen olahraga
+  *✘* #cerpen patah hati
+  *✘* #cerpen penantian
+  *✘* #cerpen pendidikan 
+  *✘* #cerpen pengalaman pribadi
+  *✘* #cerpen pengorbanan
+  *✘* #cerpen penyesalan
+  *✘* #cerpen perjuangan
+  *✘* #cerpen perpisahan
+  *✘* #cerpen persahabatan
+  *✘* #cerpen petualangan
+  *✘* #cerpen ramadhan
+  *✘* #cerpen remaja
+  *✘* #cerpen renungan
+  *✘* #cerpen rindu
+  *✘* #cerpen rohani
+  *✘* #cerpen romantis
+  *✘* #cerpen sastra
+  *✘* #cerpen sedih
+  *✘* #cerpen sejarah
+  *✘* #cerpen slice of life
+  *✘* #cerpen terjemahan
+  *✘* #cerpen thriller
+
+ [*CONVERT MENU*] 🎧
+
+ *✘* #toimage [reply sticker]
+ *✘* #tovideo [reply sticker]
+ *✘* #togif [reply sticker]
+ *✘* #tovn [reply video]
+ *✘* #tomp3 [reply video]
+ *✘* #toaudio [reply video]
+
+ [*STICKER & EMOJI & TEKS*] 🙈
+
+ *✘* #sticker [reply image]
+ *✘* #smeme [teks] (dicaption image)
+ *✘* #styletext [teks]
+ *✘* #dbinary [reply teks]
+ *✘* #ebinary [reply teks]
+ *✘* #emojimix 🥰+😭  <= contoh 
+
+ [*INFORMATION MENU*] 🗞️
+
+ *✘* #merdeka-news 
+ *✘* #kontan-news 
+ *✘* #cnbc-news 
+ *✘* #tribun-news 
+ *✘* #indozone-news 
+ *✘* #kompas-news 
+ *✘* #detik-news 
+ *✘* #daily-news 
+ *✘* #inews-news 
+ *✘* #okezone-news
+ *✘* #sindo-news 
+ *✘* #tempo-news 
+ *✘* #antara-news 
+ *✘* #cnn-news 
+ *✘* #fajar-news 
+
+ [*MAIN MENU*] 📒
+
+ *✘* #ping
+ *✘* #runtime
+ *✘* #speed
+ *✘* #owner
+ *✘* #menu (memulai bot)
+ *✘* #delete [reply pesan bot]
+ *✘* #quoted [reply pesan]
+ *✘* #listpc
+ *✘* #listgc
+ *✘* #listonline
+
+ [*DATABASE MENU*] 📂
+
+ *✘* #addmsg [nama file]
+ *✘* #listmsg 
+ *✘* #getmsg [nama file]
+ *✘* #delmsg [nama file]
+
+ [*ISLAMIC MENU*] 🕌
+
+ *✘* #iqra 3 <= contoh 
+ *✘* #hadist [bisa cek sendiri]
+ *✘* #alquran [cek sendiri]
+ *✘* #tafsirsurah [ceks sendiri]
+
+ [*VOICE CHANGER*] 🎤
+
+ *✘* #bass [reply audio/vn]
+ *✘* #blown [reply audio/vn]
+ *✘* #deep [reply audio/vn]
+ *✘* #earrape [reply audio/vn]
+ *✘* #fast [reply audio/vn]
+ *✘* #fat [reply audio/vn]
+ *✘* #nightcore [reply audio/vn]
+ *✘* #reverse [reply audio/vn]
+ *✘* #robot [reply audio/vn]
+ *✘* #slow [reply audio/vn]
+ *✘* #tupai [reply audio/vn]
