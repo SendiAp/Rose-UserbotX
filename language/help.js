@@ -31,7 +31,11 @@ exports.leave = () => {
 }
 //—————「 Bantuan 」—————//
 exports.helpme  = (ownernomer) => {
-	return`Ada Yang Bisa Dibantu?
+	return`Anda tahu betapa sulitnya mengelola grup di mana terlalu banyak pesan yang tidak pantas harus dikirim?. 
+• Terkadang kami ingin mengirim ucapan selamat datang ke anggota grup baru, saya punya solusi untuk Anda.
+• Rose-UserbotX Multi Device WhatsApp adalah pengelola bot atau membantu mengelola grup Anda, bot ini adalah pengembang bertema anime yang dinamai berdasarkan anime yang sudah sering kita tonton sebelumnya.
+• Gunakan bot ini dengan baik, jangan pernah menyalahgunakan bot ini, jika ada masalah, laporkan pengembang bot ini agar bot segera diperbaiki.
+• Gunakan perintah Menu untuk mendapatkan semua perintah yang diperlukan untuk Anda..
 `
 }
 
