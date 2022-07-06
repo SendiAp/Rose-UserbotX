@@ -33,11 +33,15 @@ global.footer = 'Rose-Userbot' //ubah jadi nama mu, note tanda ' gausah di hapus
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/ndiap04'
-global.mygc = 'https://wa.me/qr/L44VK7PMOIMOD1'
+global.mygc = 'https://chat.whatsapp.com/H5gxJUK1jF48eXG4czr6ko'
 global.myweb = 'https://chat.whatsapp.com/KJZWBMHRy9B7Jo2uzTZvgV'
 global.menu = 'https://bit.ly/3NBloHB'
 global.email = 'snktlg4@gmail.com'
 global.nomerowner = 'http://wa.me/6285894831504'
+global.tiktok = 'tiktok.com/@sendiadiningtias'
+global.cslive = 'https://bit.ly/3nG4Vav'
+global.buy = 'https://bit.ly/3aeTi7G'
+global.free = 'https://bit.ly/3NGPoSF'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
