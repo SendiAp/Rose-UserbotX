@@ -7,21 +7,13 @@
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
 	return`*Hai ${pushname}!*
+⁪⁬⁮
+💁‍♀️ Kamu dapat menggunakan bot Untuk bermain game dan bersenang-senang Disini.
 
-*Rose-Userbot* Adalah Bot Yang Dibuat Dengan Beberapa Ftur
-Yang Canggih Dan Dapat Digunakan Buat Kalian. 🎊
+❓ *APA PERINTAHNYA?* ❓
+Tekan List Menu untuk melihat *semua perintah* dan bagaimana mereka bekerja!
 
-Kamu Bisa Lihat List Menunya Ditombol Bawah Ya🥰,Jangan 
-Spam Dan Telpon Ya , Bot Akan Otomatis Ngeblokir.🤖
-
-Jika Bot Ingin Terus Aktif Kamu Bisa Berdonasi Atau
-Melakukan Pembelian Premium , Dan Nikmatin Kelebihannya.🥳
-
-Bot Mati? Langsung Hubungi Owner Secepatnya.
-
-*Tutorial & Penjelasanya:*
-Tiktok: https://vt.tiktok.com/ZSdKCd1mj/
-WhatsApp: wa.me/6285894831504
+- Semoga Kalian Bahagia Dan Senang.
 `
 }
 
@@ -40,13 +32,13 @@ exports.leave = () => {
 //—————「 Premium 」—————//
 exports.roseprem  = (ownernomer) => {
 	return`
-———「 *PREMIUM BOT* 」———
+—「 *PREMIUM BOT* 」—
 
 Sepertinya Kamu Belum Menggunakan Premium,🥲
 Gunakan Premium Sekarang, Dan Dapatkan Kelebihan
 Saat Kamu Menggunakan Rose Userbot.🥳
 
-———「 *LIST HARGA* 」———
+—「 *LIST HARGA* 」—
 
 Rp.5,000/Minggu | ~Rp.10,000~ 🌟 [99%]
 Rp.10,000/2Minggu | ~Rp.20,000~ 🌟 [99%]
@@ -56,28 +48,34 @@ Pembelian Hanya Dapat Diproses Setiap Hari Senin.
 *Contoh:* Kamu Beli Dihari Rabu , Kamu Hanya Dapat Gunakan
 Premium Bot Ini Dihari Senin.
 
-———「 *KELEBIHAN PREMIUM* 」———
+—「 *KELEBIHAN PREMIUM* 」—
 
-🫂 #grup [Dapat Menutup Grup Dengan Perintah Yang Disediakan]
-🛡️ #antilink [Grub Kamu Aman Dari Link]
-💬 #smeme [Membuat Sticker Dengan Teks]
-🎧 #sound [Mendownload Lagu Dari YouTube]
-🎧 #ytmp3 [Mendownload Lagu Dengan Link Dari YouTube]
-🎥 #ytmp4 [Mendownload Video Dengan Link YouTube]
-📂 #getmusic [Mendownload Lagu Dengan Reply Link Nya]
-🎤 #getvideo [Mendownload Video Dengan Reply Link Nya]
-🎙️ #tomp3 [Dapat Mengubah Video Menjadi MP3]
-🤭 #mute [Mute Bot Digrub Kamu]
-🎊 #listgc [Dapat Melihat Grub Dirose Userbot]
-💬 #listpc [Dapat Melihat Chat Rose userbot]
-💥 #listonline [Dapat Melihat Online Di Rose userbot]
-Free:
-🔥 No Limit.
-🔥 Bot Aktif 24Jam.
+🫂 *#grup* 
+[dapat menutup grup dengan perintah yang disediakan]
+🛡️ *#antilink* 
+[Grub Kamu Aman Dari Link]
+💬 *#smeme*
+[Membuat Sticker Dengan Teks]
+🎧 *#sound*
+[Mendownload Lagu Dari YouTube]
+📎 *#ytmp3*
+[Mendownload Lagu Dengan Link Dari YouTube]
+🎥 *#ytmp4*
+[Mendownload Video Dengan Link YouTube]
+📂 #getmusic 
+*[Mendownload Lagu Dengan Reply Link Nya]*
+🎤 *#getvideo*
+[Mendownload Video Dengan Reply Link Nya]
+🎙️ *#tomp3*
+[Dapat Mengubah Video Menjadi MP3]
+🤭 *#mute*
+[Mute Bot Digrub Kamu]
+❎ =]> *No Limit.*
+⚡ =]> *Bot Aktif 24Jam.*
 
-———「 *Pembayaran* 」———
+—「 *PEMBAYARAN* 」—
 
-*Dana:* 085894831504 [Dewi Hendriani]
+💰 *Dana:* 085894831504 [Dewi Hendriani]
 
 Mau Lewat Bank? Silahkan Klik Beli Sekarang 🎊
 `
@@ -86,7 +84,6 @@ Mau Lewat Bank? Silahkan Klik Beli Sekarang 🎊
 //—————「 List Command 」—————//
 exports.listcmd  = (ownernomer) => {
 	return`
-
   [*GROUP MENU*] 🫂
 
   *✘* #linkgroup
@@ -338,16 +335,10 @@ exports.listcmd  = (ownernomer) => {
 
  [*MAIN MENU*] 📒
 
- *✘* #ping
- *✘* #runtime
- *✘* #speed
- *✘* #owner
+ *✘* #statbot
  *✘* #menu (memulai bot)
  *✘* #delete [reply pesan bot]
  *✘* #quoted [reply pesan]
- *✘* #listpc
- *✘* #listgc
- *✘* #listonline
 
  [*DATABASE MENU*] 📂
 
