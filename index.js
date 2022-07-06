@@ -1488,34 +1488,6 @@ break
             m.reply(hm.result.message)
             }
             break
-            case 'instagram': {
-				if (args.length < 2) return reply(`Kirim perintah #instagram link`)
-			    if (!isUrl(args[1])) return reply(mess.error.Iv)
-			    if (!args[1].includes('instagram.com')) return reply(mess.error.Iv)
-			    reply(mess.wait)
-			    riych.Instagram(args[1]).then( data => {
-			     var teks = `*Instagram Downloader*\n\n*≻ Title :* ${data.title}\n*≻ Jumlah Media :* ${data.medias.length}\n*≻ Url Source :* ${data.url}\n\n_wait a minute sending media..._`
-			     reply(teks)
-			     for (let i of data.medias) {
-				  if (i.extension === "mp4") {
-				   conn.sendMessage(from, { video: { url: i.url }})
-				  } else if (i.extension === "jpg") {
-				   conn.sendMessage(from, { image: { url: i.url }})
-			      }
-			     }
-				 limitAdd(sender, limit)
-			    }).catch(() => reply(mess.error.api))
-			    break
-		   case 'facebook': {
-			    if (args.length < 2) return reply(`Kirim perintah #facebook link`)
-			    if (!isUrl(args[1])) return reply(mess.error.Iv)
-			    if (!args[1].includes('facebook.com')) return reply(mess.error.Iv)
-			    reply(mess.wait)
-			    riych.Facebook(args[1]).then( data => {
-			      conn.sendMessage(from, { video: { url: data.medias[0].url }, caption: data.title }, { quoted: msg })
-			      limitAdd(sender, limit)
-				}).catch(() => reply(mess.error.api))
-				break
             case 'toimage': case 'toimg': {
                 if (!quoted) throw 'Reply Image'
                 if (!/webp/.test(mime)) throw `balas stiker dengan caption *${prefix + command}*`
