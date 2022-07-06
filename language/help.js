@@ -28,6 +28,18 @@ exports.leave = () => {
 	return`Byeee
 `
 }
+//—————「 Bantuan 」—————//
+exports.helpme  = (ownernomer) => {
+	return`Ada Yang Bisa Dibantu?
+`
+}
+
+//—————「 Status Bot」—————//
+exports.statbot  = (ownernomer, time) => {
+	return`🤖 Status Bot : Sedang Aktif (${time})
+V.1.7
+`
+}
 
 //—————「 Premium 」—————//
 exports.roseprem  = (ownernomer) => {
