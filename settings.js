@@ -18,6 +18,16 @@ global.APIKeys = {
 'https://zenzapis.xyz': 'bagasganz',
 }
 
+// Website Api
+global.APIs = {
+	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
+}
+
+// Free apikey
+global.APIKeys = {
+	'https://api.zeeoneofc.xyz': 'V12',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+}
+
 //—————「 Setting Owner 」—————//
 global.owner = ['6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['6285894831504'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
