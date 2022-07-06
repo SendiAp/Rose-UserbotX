@@ -2726,7 +2726,7 @@ await chika.send5ButImg(from, `` + '' + lang.menu(botname, pushname, salam), `©
 break
 case 'premrose': {
 if(typemenu == 'image'){
-await chika.send5ButImg(from, `` + '' + lang.roseprem(botname, pushname, salam), `© ${ownername}`,discount, [{"urlButton": {"displayText": "Beli Sekarang 💰","url": `${buy}`}},{"urlButton": {"displayText": "Uji Coba Gratis 🆓","url": `${free}`}}}] )
+await chika.send5ButImg(from, `` + '' + lang.roseprem(botname, pushname, salam), `© ${ownername}`,discount, [{"urlButton": {"displayText": "Beli Sekarang 💰","url": `${buy}`}},{"urlButton": {"displayText": "Uji Coba Gratis 🆓","url": `${free}`}}] )
 }
 }
 break
