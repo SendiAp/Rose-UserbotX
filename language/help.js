@@ -1,3 +1,7 @@
+exports.TbBendera = (time) => {
+    return `Silahkan Jawab Pertanyaan Diatas\n\nWaktu : ${time}`
+}
+
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
 	return`*Hai ${pushname}!*
