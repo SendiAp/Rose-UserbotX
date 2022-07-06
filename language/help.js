@@ -184,15 +184,11 @@ exports.listcmd  = (ownernomer) => {
   *✘* #bisakah
   *✘* #rate
   *✘* #wangy
-  *✘* #gantengcek
   *✘* #cekganteng
-  *✘* #cantikcek
   *✘* #cekcantik
-  *✘* #sangecek
   *✘* #ceksange
-  *✘* #gaycek
   *✘* #cekgay
-  *✘* #lesbicek
+  *✘* #ceklesbi
   *✘* #halah
   *✘* #hilih
   *✘* #huluh
