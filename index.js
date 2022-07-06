@@ -24,7 +24,6 @@ const speed = require('performance-now')
 const { performance } = require('perf_hooks')
 const { Primbon } = require('scrape-primbon')
 const primbon = new Primbon()
-const yts = require('yt-search');
 const riy = require('xfarr-api')
 const { yta, ytv, ytvd, ytvf, servers } = require('./lib/y2mate')
 const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom } = require('./lib/myfunc')
