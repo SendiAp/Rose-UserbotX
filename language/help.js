@@ -1,7 +1,3 @@
-exports.KisahNabi = (prefix, command, style) => {
-    return `Exp : ${prefix + command} ${style}`
-}
-
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
 	return`*Hai ${pushname}!*
