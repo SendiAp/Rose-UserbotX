@@ -1,6 +1,9 @@
 exports.TbBendera = (time) => {
     return `Silahkan Jawab Pertanyaan Diatas\n\nWaktu : ${time}`
 }
+exports.TbKabupaten = (time) => {
+    return `Gambar Diatas Adalah Gambar dari Kabupaten?\nWaktu : ${time}`
+}
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
