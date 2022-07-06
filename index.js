@@ -10,7 +10,6 @@ const fs = require('fs')
 const util = require('util')
 const chalk = require('chalk')
 const { exec, spawn, execSync } = require("child_process")
-const ffmpeg = require("fluent-ffmpeg");
 const axios = require('axios')
 const yts = require("yt-search");
 const path = require('path')
