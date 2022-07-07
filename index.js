@@ -11,7 +11,6 @@ const util = require('util')
 const chalk = require('chalk')
 const { exec, spawn, execSync } = require("child_process")
 const axios = require('axios')
-const yts = require("yt-search");
 const path = require('path')
 const os = require('os')
 const moment = require('moment-timezone')
