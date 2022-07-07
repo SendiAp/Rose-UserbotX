@@ -4,6 +4,12 @@ exports.TbBendera = (time) => {
 exports.TbKabupaten = (time) => {
     return `Gambar Diatas Adalah Gambar dari Kabupaten?\nWaktu : ${time}`
 }
+exports.KisahNabi = (prefix, command, style) => {
+    return `Exp : ${prefix + command} ${style}`
+}
+exports.err = () => {
+    return `⚠️ Fitur Sedang Error`
+}
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
