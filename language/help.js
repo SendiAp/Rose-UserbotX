@@ -15,12 +15,13 @@ exports.err = () => {
 exports.menu = (botname, pushname, salam) => {
 	return`*Hai ${pushname}!*
 ⁪⁬⁮
-💁‍♀️ Kamu dapat menggunakan bot Untuk bermain game dan bersenang-senang Disini.
+💁‍♀️ *Kamu dapat* menggunakan bot Untuk bermain game dan bersenang-senang Disini.
 
 ❓ *APA PERINTAHNYA?* ❓
 Tekan List Menu untuk melihat *semua perintah* dan bagaimana mereka bekerja!
 
-- Semoga Kalian Bahagia Dan Senang.
+🕵️ *Klik Help & Bantuan* ⁉️
+Untuk Mengetahui *bagaimana mana bot* dapat berkerja dengan baik.
 `
 }
 
@@ -37,11 +38,17 @@ exports.leave = () => {
 }
 //—————「 Bantuan 」—————//
 exports.helpme  = (ownernomer) => {
-	return`Anda tahu betapa sulitnya mengelola grup di mana terlalu banyak pesan yang tidak pantas harus dikirim?. 
-• Terkadang kami ingin mengirim ucapan selamat datang ke anggota grup baru, saya punya solusi untuk Anda.
-• Rose-UserbotX Multi Device WhatsApp adalah pengelola bot atau membantu mengelola grup Anda, bot ini adalah pengembang bertema anime yang dinamai berdasarkan anime yang sudah sering kita tonton sebelumnya.
-• Gunakan bot ini dengan baik, jangan pernah menyalahgunakan bot ini, jika ada masalah, laporkan pengembang bot ini agar bot segera diperbaiki.
-• Gunakan perintah Menu untuk mendapatkan semua perintah yang diperlukan untuk Anda..
+	return`*Anda tahu betapa sulitnya mengelola grup di mana terlalu banyak pesan yang tidak pantas harus dikirim?*
+
+• *Terkadang kami* ingin mengirim ucapan selamat datang ke anggota grup baru, saya punya solusi untuk Anda.
+
+• *Rose-UserbotX Multi Device WhatsApp* adalah pengelola bot atau membantu mengelola grup Anda, bot ini adalah pengembang bertema anime yang dinamai berdasarkan anime yang sudah sering kita tonton sebelumnya.
+
+• *Gunakan bot* ini dengan baik, jangan pernah menyalahgunakan bot ini, jika ada masalah, laporkan pengembang bot ini agar bot segera diperbaiki.
+
+• *Gunakan perintah Menu* untuk mendapatkan semua perintah yang diperlukan untuk Anda..
+
+• *Gunakan* # <= agar semua perintah/fitur dapat merespon dengan baik.
 `
 }
 
@@ -57,57 +64,25 @@ exports.roseprem  = (ownernomer) => {
 	return`
 —「 *PREMIUM BOT* 」—
 
-Sepertinya Kamu Belum Menggunakan Premium,🥲
+• Sepertinya Kamu Belum Menggunakan *Premium*,🥲
 Gunakan Premium Sekarang, Dan Dapatkan Kelebihan
 Saat Kamu Menggunakan Rose Userbot.🥳
 
-—「 *LIST HARGA* 」—
+• *Premium Dapat* Digunakan digrub atau diprivate chat,
+Tergantung perintahnya support grub/Private chat.
 
-Rp.5,000/Minggu | ~Rp.10,000~ 🌟 [99%]
-Rp.10,000/2Minggu | ~Rp.20,000~ 🌟 [99%]
-Rp.20,000/Sebulan | ~Rp.30,000~ 🌟 [99%]
+• *Setiap Pembelian* Akan Dapat Dipakai setiap hari Senin tepat 00:00
+Fitur premium akan terus update Setiap Minggu nya.
 
-Pembelian Hanya Dapat Diproses Setiap Hari Senin.
-*Contoh:* Kamu Beli Dihari Rabu , Kamu Hanya Dapat Gunakan
-Premium Bot Ini Dihari Senin.
-
-—「 *KELEBIHAN PREMIUM* 」—
-
-🫂 *#grup* 
-[dapat menutup grup dengan perintah yang disediakan]
-🛡️ *#antilink* 
-[Grub Kamu Aman Dari Link]
-💬 *#smeme*
-[Membuat Sticker Dengan Teks]
-🎧 *#sound*
-[Mendownload Lagu Dari YouTube]
-📎 *#ytmp3*
-[Mendownload Lagu Dengan Link Dari YouTube]
-🎥 *#ytmp4*
-[Mendownload Video Dengan Link YouTube]
-📂 #getmusic 
-*[Mendownload Lagu Dengan Reply Link Nya]*
-🎤 *#getvideo*
-[Mendownload Video Dengan Reply Link Nya]
-🎙️ *#tomp3*
-[Dapat Mengubah Video Menjadi MP3]
-🤭 *#mute*
-[Mute Bot Digrub Kamu]
-❎ =]> *No Limit.*
-⚡ =]> *Bot Aktif 24Jam.*
-
-—「 *PEMBAYARAN* 」—
-
-💰 *Dana:* 085894831504 [Dewi Hendriani]
-
-Mau Lewat Bank? Silahkan Klik Beli Sekarang 🎊
+—「 *PENGGUNA PREMIUM* 」—
+❎ Tidak Ada Data.
 `
 }
 
 //—————「 List Command 」—————//
 exports.listcmd  = (ownernomer) => {
 	return`
-  [*GROUP MENU*] 🫂
+  *[GROUP MENU]* 🫂
 
   *✘* #linkgroup
   *✘* #ephemeral [option]
@@ -130,7 +105,7 @@ exports.listcmd  = (ownernomer) => {
   *✘* #cekvote
   *✘* #hapusvote
 
-  [*SEARCH MENU*] 🤳
+  *[SEARCH MENU]* 🤳
 
   *✘* #yts 
   *✘* #google 
@@ -141,21 +116,21 @@ exports.listcmd  = (ownernomer) => {
   *✘* #ringtone 
   *✘* #character
 
-  [*TELEGRAM STICK MENU*] 🥰
+  *[TELEGRAM STICK MENU]* 🥰
 
   *✘* #gurastick
   *✘* #dogestick
   *✘* #bucinstick
   *✘* #patrick
 
-  [*RANDOM MENU*] 💬
+  *[RANDOM MENU]* 💬
 
   *✘* #coffe
   *✘* #quotesanime
   *✘* #couple
   *✘* #darkjokes
 
-  [*RANDOM ANIME MENU*] 🤡
+  *[RANDOM ANIME MENU]* 🤡
 
   *✘* #loli
   *✘* #neko
@@ -198,7 +173,7 @@ exports.listcmd  = (ownernomer) => {
   *✘* #trap 
   *✘* #blowjob
 
-  [*GAME & FUN MENU*] 🎮
+  *[GAME & FUN MENU]* 🎮
 
   *✘* #simih
   *✘* #bagaimanakah
@@ -226,7 +201,7 @@ exports.listcmd  = (ownernomer) => {
   *✘* #math [mode]
   *✘* #suitpvp [@tag]
 
-  [*PRIMBON MENU*] 🎊
+  *[PRIMBON MENU]* 🎊
 
   *✘* #nomorhoki
   *✘* #artimimpi
@@ -259,7 +234,7 @@ exports.listcmd  = (ownernomer) => {
   *✘* #zodiak
   *✘* #shio
 
-  [*CERPEN MENU*] 📃
+  *[CERPEN MENU]* 📃
 
   *✘* #cerpen anak
   *✘* #cerpen bahasa daerah
@@ -316,7 +291,7 @@ exports.listcmd  = (ownernomer) => {
   *✘* #cerpen terjemahan
   *✘* #cerpen thriller
 
- [*CONVERT MENU*] 🎧
+ *[CONVERT MENU]* 🎧
 
  *✘* #toimage [reply sticker]
  *✘* #tovideo [reply sticker]
@@ -325,7 +300,7 @@ exports.listcmd  = (ownernomer) => {
  *✘* #tomp3 [reply video]
  *✘* #toaudio [reply video]
 
- [*STICKER & EMOJI & TEKS*] 🙈
+ *[STICKER & EMOJI & TEKS]* 🙈
 
  *✘* #sticker [reply image]
  *✘* #smeme [teks] (dicaption image)
@@ -334,7 +309,7 @@ exports.listcmd  = (ownernomer) => {
  *✘* #ebinary [reply teks]
  *✘* #emojimix 🥰+😭  <= contoh 
 
- [*INFORMATION MENU*] 🗞️
+ *[INFORMATION MENU]* 🗞️
 
  *✘* #merdeka-news 
  *✘* #kontan-news 
@@ -352,28 +327,28 @@ exports.listcmd  = (ownernomer) => {
  *✘* #cnn-news 
  *✘* #fajar-news 
 
- [*MAIN MENU*] 📒
+ *[MAIN MENU]* 📒
 
  *✘* #statbot
  *✘* #menu (memulai bot)
  *✘* #delete [reply pesan bot]
  *✘* #quoted [reply pesan]
 
- [*DATABASE MENU*] 📂
+ *[DATABASE MENU]* 📂
 
  *✘* #addmsg [nama file]
  *✘* #listmsg 
  *✘* #getmsg [nama file]
  *✘* #delmsg [nama file]
 
- [*ISLAMIC MENU*] 🕌
+ *[ISLAMIC MENU]* 🕌
 
  *✘* #iqra 3 <= contoh 
  *✘* #hadist [bisa cek sendiri]
  *✘* #alquran [cek sendiri]
  *✘* #tafsirsurah [ceks sendiri]
 
- [*VOICE CHANGER*] 🎤
+ *[VOICE CHANGER]* 🎤
 
  *✘* #bass [reply audio/vn]
  *✘* #blown [reply audio/vn]
