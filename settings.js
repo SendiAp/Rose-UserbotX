@@ -42,6 +42,7 @@ global.tiktok = 'tiktok.com/@sendiadiningtias'
 global.cslive = 'https://bit.ly/3nG4Vav'
 global.buy = 'https://bit.ly/3aeTi7G'
 global.free = 'https://bit.ly/3NGPoSF'
+global.bisnis = 'https://wa.me/c/6285313937918'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
