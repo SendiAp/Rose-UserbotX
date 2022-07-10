@@ -16,6 +16,9 @@ exports.LockCmd = () =>{
 exports.NoMsgBot = () => {
     return `Pesan tersebut bukan dikirim oleh bot!`
 }
+exports.wait = () => {
+    return `⏳ Mohon tunggu sebentar`
+}
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
