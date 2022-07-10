@@ -19,6 +19,9 @@ exports.NoMsgBot = () => {
 exports.wait = () => {
     return `⏳ Mohon tunggu sebentar`
 }
+exports.ok = () => {
+    return `✅ Done.`
+}
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
