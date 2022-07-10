@@ -133,6 +133,8 @@ exports.listcmd  = (ownernomer) => {
   *✘* #quotesanime
   *✘* #couple
   *✘* #darkjokes
+  *✘* #whois 
+  *✘* #jadwalshalat
 
   *[RANDOM ANIME MENU]* 🤡
 
