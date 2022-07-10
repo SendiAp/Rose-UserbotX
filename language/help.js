@@ -10,6 +10,12 @@ exports.KisahNabi = (prefix, command, style) => {
 exports.err = () => {
     return `⚠️ Fitur Sedang Error`
 }
+exports.LockCmd = () =>{
+	return`Reply pesan`
+}
+exports.NoMsgBot = () => {
+    return `Pesan tersebut bukan dikirim oleh bot!`
+}
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
@@ -95,8 +101,6 @@ exports.listcmd  = (ownernomer) => {
   *✘* #kick @user
   *✘* #hidetag 
   *✘* #tagall [pesan]
-  *✘* #antilink [on/off]
-  *✘* #mute [on/off]
   *✘* #promote @user
   *✘* #demote @user
   *✘* #vote [teks]
@@ -297,13 +301,11 @@ exports.listcmd  = (ownernomer) => {
  *✘* #tovideo [reply sticker]
  *✘* #togif [reply sticker]
  *✘* #tovn [reply video]
- *✘* #tomp3 [reply video]
  *✘* #toaudio [reply video]
 
  *[STICKER & EMOJI & TEKS]* 🙈
 
  *✘* #sticker [reply image]
- *✘* #smeme [teks] (dicaption image)
  *✘* #styletext [teks]
  *✘* #dbinary [reply teks]
  *✘* #ebinary [reply teks]
@@ -329,7 +331,6 @@ exports.listcmd  = (ownernomer) => {
 
  *[MAIN MENU]* 📒
 
- *✘* #statbot
  *✘* #menu (memulai bot)
  *✘* #delete [reply pesan bot]
  *✘* #quoted [reply pesan]
