@@ -22,6 +22,9 @@ exports.wait = () => {
 exports.ok = () => {
     return `✅ Done.`
 }
+exports.wrongFormat = (prefix) => {
+    return `Format salah ❎ Silakan cek cara penggunaan di *${prefix}menu*.`
+}
 
 //—————「 Menu 」—————//
 exports.menu = (botname, pushname, salam) => {
