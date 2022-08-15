@@ -153,7 +153,6 @@ exports.listcmd  = (ownernomer) => {
 
   *✘* #loli
   *✘* #neko
-  *✘* #waifu
   *✘* #shinobu
   *✘* #megumin
   *✘* #bully
