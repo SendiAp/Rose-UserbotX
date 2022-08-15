@@ -74,6 +74,12 @@ V.1.7
 `
 }
 
+//—————「 Kemerdekaan 」—————//
+exports.indonesia  = (ownernomer, time) => {
+	return`*Selamat HUT RI ke 77 Tahun 2022. Dirgahayu Indonesia-ku, Jayalah Negeriku!*
+`
+}
+
 //—————「 Premium 」—————//
 exports.roseprem  = (ownernomer) => {
 	return`
