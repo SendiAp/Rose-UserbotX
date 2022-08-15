@@ -6,6 +6,11 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
+// Free Apikey
+global.APIs = {
+	riy: 'https://api-xriy04.herokuapp.com',
+}
+
 //—————「 Website Apikey 」—————//
 global.APIs = {
 //gausah di apa² in!
