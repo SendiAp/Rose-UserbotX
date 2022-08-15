@@ -43,7 +43,7 @@ global.footer = 'Rose-Userbot' //ubah jadi nama mu, note tanda ' gausah di hapus
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/ndiap04'
-global.mygc = 'https://chat.whatsapp.com/H5gxJUK1jF48eXG4czr6ko'
+global.mygc = 'https://chat.whatsapp.com/KQmzttAnIEj9lcCeBQZNKM'
 global.myweb = 'https://chat.whatsapp.com/KJZWBMHRy9B7Jo2uzTZvgV'
 global.menu = 'https://bit.ly/3NBloHB'
 global.email = 'snktlg4@gmail.com'
@@ -73,6 +73,7 @@ free: 50,
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
 global.thumb = fs.readFileSync('./image/roseteam.jpg')
+global.agustus = fs.readFileSync('./image/kemerdekaan.jpg')
 global.discount = fs.readFileSync('./image/discount.png')
 global.rosejpg = fs.readFileSync('./image/rose.jpeg')
 /*global.veloriy = fs.readFileSync('./image/'rose.jpeg)*/
