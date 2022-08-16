@@ -67,13 +67,6 @@ exports.helpme  = (ownernomer) => {
 `
 }
 
-//—————「 Status Bot」—————//
-exports.statbot  = (ownernomer, time) => {
-	return`🤖 Status Bot : Sedang Aktif (${time})
-V.1.7
-`
-}
-
 //—————「 Kemerdekaan 」—————//
 exports.indonesia  = (ownernomer, time) => {
 	return`*Selamat HUT RI ke 77 Tahun 2022. Dirgahayu Indonesia-ku, Jayalah Negeriku!*
@@ -148,6 +141,8 @@ exports.listcmd  = (ownernomer) => {
   *✘* #couple
   *✘* #darkjokes
   *✘* #jadwalshalat
+  *✘* #removebg
+  *✘* #stickerwm
 
   *[RANDOM ANIME MENU]* 🤡
 
