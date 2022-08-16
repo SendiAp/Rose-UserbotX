@@ -58,6 +58,7 @@ global.cslive = 'https://bit.ly/3nG4Vav'
 global.buy = 'https://bit.ly/3aeTi7G'
 global.free = 'https://bit.ly/3NGPoSF'
 global.bisnis = 'https://wa.me/c/6285313937918'
+global.donasi = 'https://wa.me/6285894831504'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
