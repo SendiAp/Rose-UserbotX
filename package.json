@@ -2,15 +2,15 @@
   "name": "rose-userbotx",
   "version": "1.0.0",
   "description": "Simple whatsapp bot with multi device.",
-  "main": "index.js",
+  "main": "sendi.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node sendi.js"
   },
-  "author": "riy04",
+  "author": "sendiap",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.3.0",
