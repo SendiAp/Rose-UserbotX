@@ -10,7 +10,7 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2022",
+    "2021",
     "wabase-md",
     "base",
     "baileys-md",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Dika Ardnt.",
+  "author": "SendiAp",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
