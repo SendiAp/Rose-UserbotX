@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "sendi.js"]
+CMD ["node", "index.js"]
