@@ -2,7 +2,7 @@
   "name": "Rose-UserbotX",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
-  "main": "sendi.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node sendi.js"
