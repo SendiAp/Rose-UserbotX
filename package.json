@@ -1,5 +1,5 @@
 {
-  "name": "Rose-Userbot",
+  "name": "Rose-UserbotX",
   "version": "1.0.0",
   "description": "Simple whatsapp bot with multi device.",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "riy04",
+  "author": "SendiAp",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.3.0",
