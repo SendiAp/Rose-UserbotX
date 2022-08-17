@@ -14,6 +14,6 @@ RUN npm install && npm install qrcode-terminal && npm install pm2 -g
 
 COPY . .
 
-EXPOSE 8000
+EXPOSE 5000
 
-CMD ["node", "sendi.js"]
+CMD ["node", "index.js"]
